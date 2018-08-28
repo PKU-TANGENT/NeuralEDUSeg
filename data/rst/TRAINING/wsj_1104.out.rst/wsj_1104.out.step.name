@@ -1,0 +1,14 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.163 1 {\nMexico exported an average of 1,296,800 barrels of crude oil a day at an average of $15.31 a barrel during 1989's first eight months for a total of $4.82 billion, }
+create-a-node-here really 2.196 2 {Petroleos Mexicanos S.A. said.}
+nextSentence really
+create-a-node-here really 4.34 3 { \n\nThe state petroleum monopoly said }
+nextSentence really
+create-a-node-here really 4.198 4 {sales in the period gained 15%, and $262.4 million more than originally projected at an average of $10 a barrel on an export platform of 1,250,000 barrels a day.}
+nextSentence really
+autolink_nodes 1 2 satelite attribution  5001
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003
+nextSentence really
+nextSentence really

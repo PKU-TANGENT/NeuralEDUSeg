@@ -1,0 +1,227 @@
+nextSentence really
+create-a-node-here really 2.97 1 {\nIn an age of specialization, the federal judiciary is one of the last bastions of the generalist.}
+nextSentence really
+create-a-node-here really 3.82 2 {\nA judge must jump from murder to antitrust cases, from arson to securities fraud, }
+create-a-node-here really 3.108 3 {without missing a beat.}
+nextSentence really
+create-a-node-here really 5.61 4 { \n\nBut even on the federal bench, specialization is creeping in,}
+create-a-node-here really 5.150 5 { and it has become a subject of sharp controversy on the newest federal appeals court.}
+nextSentence really
+autolink_nodes 2 3 satelite manner  5001
+autolink_nodes 1 5001 satelite explanation-argumentative  5002
+autolink_nodes 5002 4 multinuclear Contrast  5003
+autolink_nodes 4 5 satelite elaboration-additional  5004
+nextSentence really
+nextSentence really
+create-a-node-here really 7.65 6 { \n\nThe Court of Appeals for the Federal Circuit was created in 1982 }
+create-a-node-here really 7.151 7 {to serve, among other things, as the court of last resort for most patent disputes.}
+create-a-node-here really 9.0 8 {\nPreviously, patent cases moved through the court system to one of the 12 circuit appeals courts.\n}
+create-a-node-here really 9.17 9 {There, judges }
+create-a-node-here really 9.43 10 {who saw few such cases }
+create-a-node-here really 9.82 11 {and had no experience in the field }
+create-a-node-here really 9.160 12 {grappled with some of the most technical and complex disputes imaginable. }
+autolink_nodes 6 7 satelite purpose  5005
+autolink_nodes 5003 5005 satelite elaboration-additional  5006
+autolink_nodes 5005 8 satelite background  5007
+autolink_nodes 8 9 satelite elaboration-additional  5008
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 10 11 multinuclear List  5010
+autolink_nodes 5009 12 multinuclear Same-Unit  5011
+create-a-node-here really 11.51 13 {\n\nA new specialty court was sought by patent experts,}
+create-a-node-here really 11.69 14 { who believed }
+create-a-node-here really 11.152 15 {that the generalists had botched too many important, multimillion-dollar cases.}
+nextSentence really
+create-a-node-here really 12.30 16 {\nSome patent lawyers had hoped }
+create-a-node-here really 12.104 17 {that such a specialty court would be filled with experts in the field.}
+nextSentence really
+create-a-node-here really 13.48 18 {\nBut the Reagan administration thought otherwise,}
+create-a-node-here really 13.88 19 { and so may the Bush administration.}
+nextSentence really
+autolink_nodes 13 14 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 14 15 nucleus attribution  5013
+#autolink_nodes 5011 5012 multinuclear Same-Unit below 5013
+#UNDID
+autolink_nodes 5011 5012 multinuclear Problem-Solution above 5014
+autolink_nodes 16 17 nucleus attribution  5015
+#autolink_nodes 5015 18 multinuclear Contrast  5016
+#UNDID
+autolink_nodes 5015 18 multinuclear Contrast  5016
+autolink_nodes 18 19 multinuclear List  5017
+autolink_nodes 5012 5016 satelite elaboration-additional  5018
+create-a-node-here really 16.0 20 { \n\nSince 1984, the president has filled four vacancies in the Federal Circuit court with non-patent lawyers.\n}
+create-a-node-here really 16.36 21 {Now only three of the 12 judges }
+create-a-node-here really 16.115 22 {-- Pauline Newman, Chief Judge Howard T. Markey, 68, and Giles Rich, 85 -- }
+create-a-node-here really 16.147 23 {have patent-law backgrounds.}
+nextSentence really
+create-a-node-here really 17.93 24 {\nThe latter two and Judge Daniel M. Friedman, 73, are approaching senior status or retirement.}
+nextSentence really
+autolink_nodes 5016 20 satelite background  5019
+autolink_nodes 21 22 satelite-embedded elaboration-set-member-e  5020
+autolink_nodes 5020 23 multinuclear Same-Unit  5021
+autolink_nodes 5021 24 satelite elaboration-additional  5022
+autolink_nodes 20 5022 satelite elaboration-additional  5023
+create-a-node-here really 19.33 25 { \n\nThree seats currently are vacant }
+create-a-node-here really 19.98 26 {and three others are likely to be filled within a few years, }
+create-a-node-here really 19.172 27 {so patent lawyers and research-based industries are making a new push }
+create-a-node-here really 19.217 28 {for specialists to be added to the court.}
+nextSentence really
+create-a-node-here really 20.22 29 {\nSeveral organizations,}
+create-a-node-here really 20.126 30 { including the Industrial Biotechnical Association and the Pharmaceutical Manufacturers Association,}
+create-a-node-here really 20.244 31 { have asked the White House and Justice Department to name candidates with both patent and scientific backgrounds.}
+nextSentence really
+create-a-node-here really 21.104 32 {\nThe associations would like the court to include between three and six judges with specialized training.}
+nextSentence really
+autolink_nodes 25 26 multinuclear List  5024
+autolink_nodes 5023 5024 satelite elaboration-additional  5025
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5025 5026 multinuclear Problem-Solution  5027
+autolink_nodes 29 30 satelite-embedded elaboration-set-member-e  5028
+autolink_nodes 5028 31 multinuclear Same-Unit  5029
+autolink_nodes 5029 32 satelite elaboration-additional  5030
+autolink_nodes 5026 5030 satelite elaboration-additional  5031
+create-a-node-here really 23.126 33 { \n\nSome of the associations have recommended Dr. Alan D. Lourie, 54, a former patent agent with a doctorate in organic chemistry }
+create-a-node-here really 23.213 34 {who now is associate general counsel with SmithKline Beckman Corp. in Philadelphia.}
+nextSentence really
+#create-a-node-here really 24.19 35 {\nDr. Lourie says the}
+#UNDID
+create-a-node-here really 24.16 35 {\nDr. Lourie says }
+create-a-node-here really 25.0 36 {the Justice Department interviewed him last July. \n}
+autolink_nodes 33 34 satelite elaboration-additional  5032
+autolink_nodes 35 36 nucleus attribution  5033
+autolink_nodes 5032 5033 satelite elaboration-additional  5034
+autolink_nodes 5030 5034 satelite elaboration-additional  5035
+create-a-node-here really 26.74 37 {\nTheir effort has received a lukewarm response from the Justice Department.}
+nextSentence really
+create-a-node-here really 26.95 38 { "We do not feel }
+create-a-node-here really 26.123 39 {that seats are reserved }
+create-a-node-here really 26.149 40 {(for patent lawyers),"}
+create-a-node-here really 26.191 41 { says Justice spokesman David Runkel, }
+create-a-node-here really 26.215 42 {who declines to say }
+create-a-node-here really 26.254 43 {how soon a candidate will be named.}
+nextSentence really
+create-a-node-here really 26.300 44 { "But we will take it into consideration."}
+nextSentence really
+autolink_nodes 37 38 satelite explanation-argumentative  5036
+autolink_nodes 38 39 nucleus attribution-n  5037
+autolink_nodes 39 40 satelite-embedded elaboration-additional-e below 5038
+autolink_nodes 5037 41 satelite attribution  5039
+#autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5040
+#UNDID
+autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5040
+autolink_nodes 42 43 nucleus attribution-n  5041
+collapsed_nodes {5011}
+collapsed_nodes {5011 5017}
+collapsed_nodes {5011 5017 5023}
+collapsed_nodes {5011 5017 5023 5030}
+collapsed_nodes {5011 5017 5023}
+disconnect_node 5039 disconnect
+autolink_nodes 37 5039 satelite explanation-argumentative  5042
+autolink_nodes 5034 5042 satelite elaboration-additional  5043
+create-a-node-here really 28.142 45 { \n\nThe Justice Department's view is shared by other lawyers and at least one member of the court, Judge H. Robert Mayer, a former civil litigator}
+create-a-node-here really 28.190 46 { who served at the claims court trial level }
+create-a-node-here really 28.256 47 {before he was appointed to the Federal Circuit two years ago. }
+create-a-node-here really 28.271 48 {"I believe }
+create-a-node-here really 28.353 49 {that any good lawyer should be able to figure out and understand patent law," }
+create-a-node-here really 28.375 50 {Judge Mayer says, }
+create-a-node-here really 28.386 51 {adding }
+create-a-node-here really 28.443 52 {that "it's the responsibility of highly paid lawyers }
+create-a-node-here really 28.475 53 {(who argue before the court)}
+create-a-node-here really 28.502 54 { to make us understand }
+create-a-node-here really 28.535 55 {(complex patent litigation)."}
+nextSentence really
+autolink_nodes 43 44 satelite elaboration-additional below 5044
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 5045 47 satelite temporal-before  5046
+autolink_nodes 48 49 nucleus attribution  5047
+autolink_nodes 5047 50 satelite attribution  5048
+autolink_nodes 5048 51 satelite-embedded elaboration-additional-e  5049
+#autolink_nodes 51 52 nucleus elaboration-additional  5050
+#UNDID
+autolink_nodes 51 52 nucleus elaboration-additional  5050
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e below 5051
+autolink_nodes 5051 54 multinuclear Same-Unit  5052
+autolink_nodes 54 55 satelite elaboration-additional  5053
+autolink_nodes 5046 5049 satelite explanation-argumentative  5054
+autolink_nodes 5042 5054 satelite example  5055
+create-a-node-here really 31.49 56 { \n\nYet some lawyers point to Eli Lilly & Co. vs.\nMedtronic, Inc., the patent infringement case the}
+create-a-node-here really 31.145 57 { Supreme Court this month agreed to review, as an example of poor legal reasoning by judges }
+create-a-node-here really 31.188 58 {who lack patent litigation experience. }
+#create-a-node-here really 31.239 59 {(Judge Mayer was not on the three-member panel.}
+#nextSentence really
+#create-a-node-here really 33.73 60 {) \n\nIn the Lilly case, the appeals court broadly construed a federal statute }
+#create-a-node-here really 33.141 61 {to grant Medtronic, a medical device manufacturer, an exemption }
+#create-a-node-here really 33.194 62 {to infringe a patent under certain circumstances.}
+#nextSentence really
+#create-a-node-here really 34.49 63 {\nIf the Supreme Court holds in Medtronic's favor, }
+#create-a-node-here really 34.203 64 {the decision will have billion-dollar consequences for the manufacturers of medical devices, color and food additives and all other non-drug products }
+#create-a-node-here really 34.257 65 {that required Food & Drug Administration approval.}
+#nextSentence really
+#autolink_nodes 56 57 satelite explanation-argumentative  5056
+#autolink_nodes 57 58 satelite elaboration-additional  5057
+#autolink_nodes 5056 59 satelite elaboration-additional  5058
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 31.241 59 {(Judge Mayer was not on the three-member panel.) }
+create-a-node-here really 33.73 60 {\n\nIn the Lilly case, the appeals court broadly construed a federal statute }
+create-a-node-here really 33.141 61 {to grant Medtronic, a medical device manufacturer, an exemption }
+create-a-node-here really 33.194 62 {to infringe a patent under certain circumstances.}
+nextSentence really
+create-a-node-here really 34.49 63 {\nIf the Supreme Court holds in Medtronic's favor, }
+create-a-node-here really 34.203 64 {the decision will have billion-dollar consequences for the manufacturers of medical devices, color and food additives and all other non-drug products }
+create-a-node-here really 34.257 65 {that required Food & Drug Administration approval.}
+nextSentence really
+autolink_nodes 56 57 satelite explanation-argumentative  5056
+autolink_nodes 57 58 satelite elaboration-object-attribute  5057
+autolink_nodes 5056 59 satelite elaboration-additional  5058
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 61 62 satelite-embedded purpose-e  5060
+autolink_nodes 5058 5059 satelite elaboration-additional  5061
+autolink_nodes 63 64 nucleus condition  5062
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e below 5063
+autolink_nodes 5059 5062 satelite elaboration-additional  5064
+autolink_nodes 5055 5061 multinuclear Contrast  5065
+create-a-node-here really 36.113 66 { \n\nLisa Raines, a lawyer and director of government relations for the Industrial Biotechnical Association, contends }
+create-a-node-here really 36.229 67 {that a judge well-versed in patent law and the concerns of research-based industries would have ruled otherwise.}
+nextSentence really
+create-a-node-here really 37.62 68 {\nAnd Judge Newman, a former patent lawyer, wrote in her dissent}
+create-a-node-here really 37.145 69 { when the court denied a motion for a rehearing of the case by the full court, }
+create-a-node-here really 37.237 70 {"The panel's judicial legislation has affected an important high-technological industry,}
+create-a-node-here really 37.329 71 { without regard to the consequences for research and innovation or the public interest."}
+nextSentence really
+create-a-node-here really 39.17 72 { \n\nSays Ms. Raines, }
+create-a-node-here really 39.36 73 {"(The judgment)}
+create-a-node-here really 39.62 74 { confirms our concern }
+create-a-node-here really 39.139 75 {that the absence of patent lawyers on the court could prove troublesome."}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5066
+#autolink_nodes 69 70 satelite consequence-s  5067
+#UNDID
+autolink_nodes 69 70 multinuclear Cause-Result  5067
+autolink_nodes 68 5067 nucleus attribution  5068
+autolink_nodes 70 71 satelite manner  5069
+autolink_nodes 72 73 nucleus attribution  5070
+autolink_nodes 73 74 multinuclear Same-Unit  5071
+#autolink_nodes 74 75 satelite elaboration-object-attribute  5072
+#UNDID
+autolink_nodes 74 75 satelite elaboration-object-attribute  5072
+autolink_nodes 5066 5068 satelite elaboration-additional  5073
+autolink_nodes 5073 5070 satelite elaboration-additional  5074
+autolink_nodes 5061 5074 satelite elaboration-additional  5075
+collapsed_nodes {5011 5017 5023 5006}
+collapsed_nodes {}
+collapsed_nodes {5006}
+collapsed_nodes {}
+collapsed_nodes {5006}
+collapsed_nodes {}

@@ -1,0 +1,620 @@
+1
+ The dollar finished lower yesterday,
+5001
+span
+
+2
+ after tracking another rollercoaster session on Wall Street.
+1
+temporal-after
+
+3
+ Concern about the volatile U.S. stock market had faded in recent sessions,
+5061
+background
+
+4
+ and traders appeared content to let the dollar languish in a narrow range until tomorrow,
+5061
+span
+
+5
+ when the preliminary report on third-quarter U.S. gross national product is released.
+4
+elaboration-object-attribute-e
+
+6
+ But seesaw gyrations in the Dow Jones Industrial Average yesterday put Wall Street back in the spotlight
+7
+consequence-n
+
+7
+ and inspired market participants to bid the U.S. unit lower.
+5004
+span
+
+8
+ UAL's decision
+5006
+span
+
+9
+ to remain an independent company 
+8
+elaboration-object-attribute-e
+
+10
+sent share prices tumbling.
+5007
+Same-Unit
+
+11
+ By midmorning, the DJIA had plunged 80 points
+5008
+span
+
+12
+ and foreign-exchange dealers quickly drove the dollar down.
+5009
+span
+
+13
+ When the DJIA modestly rebounded,
+14
+consequence-n
+
+14
+ the dollar bounced back in choppy dealings
+5010
+span
+
+15
+ but ended the day below the levels of late Monday.
+5011
+span
+
+16
+ Stock prices, meanwhile, posted significant gains in later trading 
+5014
+List
+
+17
+and closed down by only 3.69 points on the day.
+5014
+List
+
+18
+ Some dealers said
+19
+attribution
+
+19
+ that the market's strong reaction to Wall Street reflects a general uneasiness about the dollar.
+5016
+span
+
+20
+ They added 
+5018
+attribution
+
+21
+that the DJIA's swift drop proved an easy excuse for the market
+5018
+span
+
+22
+ to drive the U.S. currency in the direction 
+5017
+span
+
+23
+it was already headed.
+22
+elaboration-object-attribute-e
+
+24
+ In late New York trading yesterday, the dollar was quoted at 1.8355 marks, down from 1.8470 marks Monday, and at 141.45 yen, down from 141.90 yen late Monday.
+5021
+List
+
+25
+ Sterling was quoted at $1.6055, up from $1.6030 late Monday.
+5021
+List
+
+26
+ In Tokyo Wednesday, the U.S. currency opened for trading at 141.57 yen, down from Tuesday's Tokyo close of 142.10 yen.
+5022
+Comparison
+
+27
+ Tom Trettien, a vice president with Banque Paribas in New York, sees a break in the dollar's long-term upward trend, a trend 
+5024
+span
+
+28
+that began in January 1988.
+27
+elaboration-object-attribute-e
+
+29
+ He argues
+30
+attribution
+
+30
+ that the dollar is now moving sideways, 
+5026
+span
+
+31
+adding 
+32
+attribution
+
+32
+that the next leg could be the beginning of a longer term bearish phase.
+5025
+span
+
+33
+ Analysts peg the dollar's recent weakness to an underlying slowdown in the U.S. economy,
+5030
+span
+
+34
+ highlighted by recent economic data, particularly a surprisingly sharp widening in the August U.S. trade gap.
+33
+elaboration-additional-e
+
+35
+ They also point out
+36
+attribution
+
+36
+ that narrowing interest-rate differentials between the U.S. and its major trading partners tend to make the U.S. currency less attractive to foreign investors.
+5031
+span
+
+37
+ Despite several spurts of dollar trading,
+38
+concession
+
+38
+ it was noted that mark-yen cross trade grabbed much of the market's attention.
+5034
+span
+
+39
+ Following the dive in U.S. stocks,
+40
+temporal-after
+
+40
+ the mark has strengthened more than its major counterparts.
+5035
+span
+
+41
+ Traders attribute the mark's surge to a robust West German economy and higher rate differentials.
+5037
+List
+
+42
+ But, they add 
+43
+attribution
+
+43
+that the mark's strength is in part a reflection of a shift away from U.S. assets by Japanese investors into West German investments.
+5036
+span
+
+44
+ The question remains:
+5039
+span
+
+45
+ how much can the West German market absorb?
+44
+elaboration-object-attribute-e
+
+46
+ says one senior dealer.
+5039
+attribution
+
+47
+ Some dealers say 
+5045
+attribution
+
+48
+that Bank of Japan Governor Satoshi Sumita's reassurance 
+5044
+span
+
+49
+that Japanese monetary policy won't be changed for the time being
+48
+elaboration-object-attribute-e
+
+50
+ has given investors an added excuse 
+5043
+span
+
+51
+to push the yen down even further against the mark.
+50
+elaboration-object-attribute-e
+
+52
+ Despite the yen's weakness with respect to the mark,
+5048
+concession
+
+53
+ Tokyo traders say 
+5047
+attribution
+
+54
+they don't expect the Bank of Japan to take any action 
+5047
+span
+
+55
+to support the Japanese currency on that front.
+54
+elaboration-object-attribute-e
+
+56
+ Meanwhile, sterling slumped on news 
+5052
+span
+
+57
+that the United Kingdom posted a wider-than-expected trade deficit in September.
+56
+elaboration-object-attribute-e
+
+58
+ The news also knocked the British unit to below 2.95 marks in London,
+59
+antithesis
+
+59
+ but a bout of short-covering helped sterling recoup some of its earlier losses.
+5053
+span
+
+60
+ On the Commodity Exchange in New York, gold for current delivery jumped $3.20 to $370.20 an ounce.
+5055
+span
+
+61
+ The close was the highest since Aug. 15.
+60
+elaboration-additional
+
+62
+ Estimated volume was a light two million ounces.
+5055
+elaboration-additional
+
+63
+ In early trading in Hong Kong Wednesday, gold was quoted at $368.25 an ounce.
+5057
+Comparison
+
+5001
+span
+5015
+summary-s
+
+5002
+span
+
+
+
+5003
+span
+5004
+antithesis
+
+5004
+span
+5005
+span
+
+5005
+span
+5013
+span
+
+5006
+span
+5007
+Same-Unit
+
+5007
+multinuc
+11
+result
+
+5008
+span
+12
+consequence-n
+
+5009
+span
+5011
+temporal-after
+
+5010
+span
+15
+antithesis
+
+5011
+span
+5012
+span
+
+5012
+span
+5005
+elaboration-general-specific
+
+5013
+span
+5015
+span
+
+5014
+multinuc
+5013
+elaboration-additional
+
+5015
+span
+5059
+span
+
+5016
+span
+5020
+span
+
+5017
+span
+21
+elaboration-object-attribute-e
+
+5018
+span
+5019
+span
+
+5019
+span
+5016
+elaboration-additional
+
+5020
+span
+5023
+span
+
+5021
+multinuc
+5022
+Comparison
+
+5022
+multinuc
+5020
+evidence
+
+5023
+span
+5029
+span
+
+5024
+span
+5028
+span
+
+5025
+span
+5026
+elaboration-additional
+
+5026
+span
+5027
+span
+
+5027
+span
+5024
+elaboration-additional
+
+5028
+span
+5023
+example
+
+5029
+span
+5033
+span
+
+5030
+span
+5032
+span
+
+5031
+span
+5030
+elaboration-additional
+
+5032
+span
+5029
+explanation-argumentative
+
+5033
+span
+5060
+span
+
+5034
+span
+5042
+span
+
+5035
+span
+5038
+span
+
+5036
+span
+5037
+List
+
+5037
+multinuc
+5035
+explanation-argumentative
+
+5038
+span
+5041
+span
+
+5039
+span
+5040
+span
+
+5040
+span
+5038
+comment
+
+5041
+span
+5034
+elaboration-additional
+
+5042
+span
+5051
+span
+
+5043
+span
+5045
+Same-Unit
+
+5044
+span
+5045
+Same-Unit
+
+5045
+multinuc
+5046
+span
+
+5046
+span
+5050
+span
+
+5047
+span
+5048
+span
+
+5048
+span
+5049
+span
+
+5049
+span
+5046
+elaboration-additional
+
+5050
+span
+5042
+elaboration-additional
+
+5051
+span
+5058
+Topic-Drift
+
+5052
+span
+5054
+span
+
+5053
+span
+5052
+elaboration-additional
+
+5054
+span
+5058
+Topic-Drift
+
+5055
+span
+5056
+span
+
+5056
+span
+5057
+Comparison
+
+5057
+multinuc
+5058
+Topic-Drift
+
+5058
+multinuc
+
+
+
+5059
+span
+5033
+evaluation-n
+
+5060
+span
+5058
+Topic-Drift
+
+5061
+span
+5003
+span
+

@@ -1,0 +1,46 @@
+nextSentence really
+create-a-node-here really 2.68 1 {\nOil imports to Japan rose 12% in September from year-earlier levels,}
+create-a-node-here really 2.96 2 { according to statistics }
+create-a-node-here really 2.173 3 {released by the government's Ministry of International Trade and Industry.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 satelite attribution  5002
+nextSentence really
+create-a-node-here really 4.12 4 { \n\nThe imports,}
+create-a-node-here really 4.46 5 { totaling 98.5 million barrels,}
+create-a-node-here really 4.84 6 { were 11% lower than August levels.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 5002 5004 satelite-embedded elaboration-general-specific-e  5005
+create-a-node-here really 6.81 7 { \n\nThe year-on-year rise was partly because of higher demand for petroleum products,}
+create-a-node-here really 6.126 8 { and partly because of tax changes in 1988}
+create-a-node-here really 6.213 9 { that left oil companies with high inventories in the late-summer/early-FALL PERIOD.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 7 multinuclear List  5007
+collapsed_nodes {5004}
+autolink_nodes 5005 5007 satelite result  5008
+create-a-node-here really 8.73 10 { \n\nImports of crude from the Middle East grew 17% from year-earlier levels, }
+create-a-node-here really 8.120 11 {and Southeast Asian crude imports grew 43%.}
+nextSentence really
+autolink_nodes 10 11 multinuclear Comparison  5009
+#create-a-node-here really 10.75 12 { \n\nWhile Mideast crude imports were higher compared with year-earlier levels, }
+#create-a-node-here really 10.122 13 {they fell 18% compared with August imports.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 10.40 12 { \n\nWhile Mideast crude imports were higher }
+create-a-node-here really 10.78 13 {compared with year-earlier levels,}
+create-a-node-here really 11.0 14 { they fell 18% compared with August imports.\n}
+autolink_nodes 13 14 multinuclear Comparison  5010
+autolink_nodes 13 12 satelite-embedded elaboration-general-specific-e  5011
+create-a-node-here really 11.73 15 {Southeast Asian crude imports, however, were 3.6% higher than August.}
+nextSentence really
+autolink_nodes 5010 15 multinuclear Comparison above 5012
+autolink_nodes 5009 5012 satelite elaboration-additional  5013
+autolink_nodes 5007 5013 satelite elaboration-additional  5014
+collapsed_nodes {}
+collapsed_nodes {5008}
+collapsed_nodes {}

@@ -1,0 +1,89 @@
+nextSentence really
+create-a-node-here really 2.69 1 {\nTHE FINANCIAL ACCOUNTING STANDARDS BOARD'S coming rule on disclosure }
+create-a-node-here really 2.103 2 {involving financial instruments}
+#create-a-node-here really 2.195 3 { will be effective for financial statements with fiscal years ending after June 15, 1990.}
+#nextSentence really
+#autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+#autolink_nodes 5001 3 multinuclear Same-Unit  5002
+#create-a-node-here really 3.43 4 {\nThe date was misstated in Friday's edition.}
+#nextSentence really
+#autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5003
+#create-a-node-here really 6.0 5 { \n\n(See: "FASB Plans Rule on Financial Risk of Instruments" -- WSJ Oct. 27, 1989) \n}
+#nextSentence really
+#autolink_nodes 5002 5 schema Footnote  5003
+#UNDID
+#autolink_nodes 5002 5 satelite background  5004
+#collapsed_nodes {}
+#UNDID
+#autolink_nodes 5 5 schema Footnote  5003
+#autolink_nodes 5002 5 satelite background  5004
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.168 3 { will be effective for financial statements with fiscal years }
+nextSentence really
+create-a-node-here really 3.0 4 {ending after June 15, 1990.\n}
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5002 5001 multinuclear Same-Unit  5003
+create-a-node-here really 3.46 5 {The date was misstated in Friday's edition.}
+nextSentence really
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+#create-a-node-here really 5.57 6 { \n\n(See: "FASB Plans Rule on Financial Risk of Instruments" }
+#create-a-node-here really 5.81 7 {-- WSJ Oct. 27, 1989)}
+#autolink_nodes 6 7 satelite attribution  5005
+#autolink_nodes 5004 5005 multinuclear TextualOrganization  5006
+#change_constit 5005 Footnote
+#change_constit 5004 Text
+#create-a-node-here really 6.0 8 { \n}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 5.6 6 { \n\n(See: }
+#autolink_nodes 5004 6 multinuclear TextualOrganization  5005
+#change_constit 5004 Text
+#change_constit 6 Footnote
+#create-a-node-here really 5.60 7 {"FASB Plans Rule on Financial Risk of Instruments" }
+#autolink_nodes 6 7 nucleus OTHER-rel  5006
+#UNDID
+#autolink_nodes 6 7 satelite OTHER-rel  5006
+#create-a-node-here really 5.85 8 {-- WSJ Oct. 27, 1989) }
+#autolink_nodes 7 8 satelite attribution  5007
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.57 6 { \n\n(See: "FASB Plans Rule on Financial Risk of Instruments" }
+autolink_nodes 5004 6 multinuclear TextualOrganization  5005
+change_constit 5004 Text
+change_constit 6 Footnote
+#create-a-node-here really 5.82 7 {-- WSJ Oct. 27, 1989) }
+#autolink_nodes 6 7 satelite attribution  5006
+#UNDID
+#autolink_nodes 6 7 satelite attribution  5006
+#UNDID
+#UNDID
+create-a-node-here really 5.82 7 {-- WSJ Oct. 27, 1989) }
+autolink_nodes 6 7 satelite attribution  5006
+change_constit 5006 Footnote
+change_constit 5004 Text
+change_constit 5004 Text
+change_constit 5006 Footnote

@@ -1,0 +1,250 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nIsrael has launched a new effort }
+create-a-node-here really 2.45 2 {to prove }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.119 3 {the Palestine Liberation Organization continues to practice terrorism, }
+autolink_nodes 2 3 nucleus attribution  5002
+create-a-node-here really 2.186 4 {and thus to persuade the U.S. to break off talks with the group.}
+nextSentence really
+autolink_nodes 5002 4 nucleus means  5003
+create-a-node-here really 3.29 5 {\nU.S. officials, however, said}
+autolink_nodes 5001 5 nucleus concession  5004
+create-a-node-here really 3.73 6 { they aren't buying the Israeli argument.}
+nextSentence really
+autolink_nodes 5 6 nucleus attribution  5005
+create-a-node-here really 5.114 7 { \n\nIsraeli counterterrorism officials provided the State Department with a 20-page list of recent terrorist incidents}
+create-a-node-here really 5.151 8 { they attribute directly to forces}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 5.196 9 { controlled by PLO Chairman Yasser Arafat.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 6.49 10 {\nMr. Arafat publicly renounced terrorism Dec. 15, }
+autolink_nodes 5006 10 satelite elaboration-additional  5008
+create-a-node-here really 6.123 11 {satisfying the U.S. precondition for a direct "dialogue" with the PLO.}
+nextSentence really
+autolink_nodes 10 11 nucleus means  5009
+create-a-node-here really 8.37 12 { \n\nA U.S. counterterrorism official said}
+autolink_nodes 5008 12 multinuclear Statement-Response  5010
+create-a-node-here really 8.80 13 { experts are studying the Israeli list.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5011
+create-a-node-here really 8.118 14 { "We have no independent evidence }
+autolink_nodes 5011 14 satelite elaboration-additional  5012
+create-a-node-here really 8.183 15 {linking Fatah to any acts of terrorism since Dec. 15, 1988," }
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+create-a-node-here really 8.195 16 {he said,}
+#autolink_nodes 5013 16 satelite attribution  5014
+#UNDID
+autolink_nodes 5013 16 satelite attribution  5014
+create-a-node-here really 8.235 17 { referring to the specific PLO group}
+#autolink_nodes 5014 17 multinuclear Comment-Topic  5015
+#UNDID
+autolink_nodes 5014 17 multinuclear Comment-Topic  5015
+create-a-node-here really 8.262 18 { that Mr. Arafat heads.}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 8.310 19 { "So far, this list doesn't change our view.}
+nextSentence really
+autolink_nodes 5015 19 satelite elaboration-additional  5017
+create-a-node-here really 9.34 20 {\nIsrael wants to end the dialogue, }
+autolink_nodes 5017 20 satelite elaboration-additional  5018
+create-a-node-here really 9.90 21 {but our analysts take a different view than theirs."}
+nextSentence really
+autolink_nodes 20 21 nucleus concession  5019
+create-a-node-here really 11.103 22 { \n\nIsraeli Prime Minister Yitzhak Shamir's top adviser on counterterrorism, Yigal Carmon, was here Monday }
+collapsed_nodes {5017}
+collapsed_nodes {}
+autolink_nodes 5010 22 satelite elaboration-additional  5020
+create-a-node-here really 11.174 23 {to present the report to members of Congress, reporters and others.}
+nextSentence really
+autolink_nodes 22 23 satelite purpose  5021
+create-a-node-here really 12.16 24 {\nMr. Carmon said }
+autolink_nodes 5021 24 satelite elaboration-additional  5022
+create-a-node-here really 12.101 25 {he also presented the list last week to William Brown, U.S. Ambassador to Israel.}
+nextSentence really
+autolink_nodes 24 25 nucleus attribution  5023
+create-a-node-here really 14.39 26 { \n\nSeparately, the New York Times reported}
+autolink_nodes 5022 26 multinuclear List  5024
+create-a-node-here really 14.141 27 { that the Israeli government had provided its correspondent in Jerusalem with different documents }
+autolink_nodes 26 27 nucleus attribution  5025
+create-a-node-here really 14.149 28 {that}
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e below 5026
+create-a-node-here really 14.166 29 { Israel said }
+autolink_nodes 28 29 satelite attribution  5027
+create-a-node-here really 14.176 30 {prove }
+autolink_nodes 5027 30 multinuclear Same-Unit  5028
+create-a-node-here really 14.253 31 {the PLO has been conducting terrorism from the occupied Arab territories.}
+nextSentence really
+autolink_nodes 5028 31 nucleus attribution  5029
+create-a-node-here really 15.26 32 {\nThe State Department said }
+autolink_nodes 5029 32 satelite elaboration-additional  5030
+create-a-node-here really 15.72 33 {it hasn't yet seen copies of those papers.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5031
+create-a-node-here really 17.45 34 { \n\n"If the dialogue was based on the assumption }
+collapsed_nodes {5026}
+autolink_nodes 5024 34 satelite elaboration-additional  5032
+create-a-node-here really 17.94 35 {that Arafat or the PLO would stop terrorism, }
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 17.142 36 {and we have evidence of continued terrorism,}
+autolink_nodes 5033 36 nucleus concession  5034
+create-a-node-here really 17.185 37 { what would be the logical conclusion?"}
+nextSentence really
+autolink_nodes 5034 37 nucleus condition  5035
+create-a-node-here really 17.207 38 { Mr. Carmon asked.}
+nextSentence really
+autolink_nodes 5035 38 satelite attribution  5036
+disconnect_node 5036 disconnect
+autolink_nodes 5024 5036 satelite rhetorical-question  5037
+collapsed_nodes {5026 5036}
+collapsed_nodes {5026 5036 5037}
+collapsed_nodes {5026 5036 5037 5018}
+collapsed_nodes {5026 5036 5037 5018 5010}
+collapsed_nodes {5026 5036 5037 5018 5010 5005}
+collapsed_nodes {5026 5036 5037 5018 5010 5005 5020}
+collapsed_nodes {5005}
+collapsed_nodes {5005 5008}
+collapsed_nodes {5005 5008 5012}
+collapsed_nodes {5005 5008 5012 5024}
+create-a-node-here really 19.24 39 { \n\nIsrael has long claimed }
+autolink_nodes 5020 39 multinuclear Topic-Drift  5038
+create-a-node-here really 19.73 40 {Mr. Arafat never meant to renounce terrorism,}
+autolink_nodes 39 40 nucleus attribution  5039
+#create-a-node-here really 19.192 41 { particularly because he and his lieutenants reserved the right to press "armed struggle" against the Jewish state.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 19.140 41 { particularly because he and his lieutenants reserved the right}
+#autolink_nodes 40 41 satelite result below 5040
+#UNDID
+autolink_nodes 40 41 satelite reason below 5040
+create-a-node-here really 20.0 42 { to press "armed struggle" against the Jewish state.\n}
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 20.24 43 {Now, Jerusalem says }
+autolink_nodes 5039 43 nucleus background  5042
+create-a-node-here really 20.118 44 {it is backing up its contention with detailed accounts of alleged terrorist acts and plans}
+autolink_nodes 43 44 nucleus attribution  5043
+create-a-node-here really 20.144 45 { linked to Mr. Arafat.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e below 5044
+create-a-node-here really 21.33 46 {\nIt blames most of these on Fatah.}
+nextSentence really
+autolink_nodes 5043 46 satelite elaboration-additional below 5045
+create-a-node-here really 23.59 47 { \n\nThe new accusations come at a delicate time in U.S. efforts}
+autolink_nodes 5045 47 satelite elaboration-additional below 5046
+create-a-node-here really 23.132 48 { to bring about talks between Israel and Palestinian representatives.}
+nextSentence really
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 24.26 49 {\nThe State Department said }
+autolink_nodes 5046 49 satelite elaboration-additional below 5048
+create-a-node-here really 24.116 50 {it had received a new letter on the subject from Israeli Foreign Minister Moshe Arens,}
+autolink_nodes 49 50 nucleus attribution  5049
+create-a-node-here really 24.159 51 { restating Israel's previous objection }
+autolink_nodes 50 51 satelite-embedded elaboration-additional-e below 5050
+create-a-node-here really 24.199 52 {to negotiating with any Palestinian }
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 24.219 53 {tied to the PLO.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5052
+create-a-node-here really 26.67 54 { \n\nDeciding what constitutes "terrorism" can be a legalistic exercise.}
+nextSentence really
+collapsed_nodes {5005 5008 5012 5024 5049}
+collapsed_nodes {5005 5008 5012 5024 5049 5046}
+autolink_nodes 5004 5038 satelite background  5053
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038}
+autolink_nodes 5053 54 satelite interpretation-s  5054
+create-a-node-here really 27.67 55 {\nThe U.S. defines it as "premediated, politically motivated violence}
+autolink_nodes 54 55 satelite definition  5055
+create-a-node-here really 27.164 56 { perpetrated against noncombatant targets by subnational groups or clandestine state agents."}
+nextSentence really
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5056
+create-a-node-here really 27.195 57 { To meet the U.S. criteria,}
+autolink_nodes 5056 57 nucleus circumstance  5057
+create-a-node-here really 27.216 58 { Israel contended}
+autolink_nodes 57 58 nucleus purpose  5058
+create-a-node-here really 27.245 59 { it only listed incidents}
+autolink_nodes 58 59 nucleus attribution  5059
+create-a-node-here really 27.274 60 { that involved civilians }
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e below 5060
+create-a-node-here really 27.319 61 {and occurred inside its pre-1967 borders.}
+nextSentence really
+autolink_nodes 60 61 multinuclear List  5061
+create-a-node-here really 29.63 62 { \n\nAt the heart of Israel's report is a list of a dozen incidents }
+autolink_nodes 5059 62 satelite elaboration-additional below 5062
+create-a-node-here really 29.97 63 {Jerusalem attributes to Fatah,}
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5063
+create-a-node-here really 29.151 64 { including the use of bombs and Molotov cocktails.}
+nextSentence really
+autolink_nodes 5063 64 satelite-embedded example-e  5064
+create-a-node-here really 30.23 65 {\nBut U.S. officials say }
+autolink_nodes 5058 65 nucleus concession  5065
+create-a-node-here really 30.49 66 {they aren't satisfied }
+autolink_nodes 65 66 nucleus attribution  5066
+create-a-node-here really 30.89 67 {these incidents constitute terrorism}
+autolink_nodes 66 67 nucleus attribution-n  5067
+create-a-node-here really 30.196 68 { because they may be offshoots of the intifadah, the Palestinian rebellion in the occupied territories,}
+autolink_nodes 5067 68 satelite reason below 5068
+create-a-node-here really 30.246 69 { which the U.S. doesn't classify as terrorism.}
+nextSentence really
+autolink_nodes 68 69 satelite-embedded elaboration-additional-e  5069
+create-a-node-here really 31.30 70 {\nIn addition, the officials say}
+autolink_nodes 5066 70 satelite elaboration-additional below 5070
+create-a-node-here really 31.78 71 { Israel hasn't presented convincing evidence}
+autolink_nodes 70 71 nucleus attribution  5071
+create-a-node-here really 31.132 72 { these acts were ordered by Fatah or by any group }
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e below 5072
+create-a-node-here really 31.156 73 {Mr. Arafat controls.}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5073
+create-a-node-here really 33.32 74 { \n\nU.S. terrorism experts also say }
+autolink_nodes 5071 74 multinuclear List  5074
+create-a-node-here really 33.107 75 {they are highly uncertain about the veracity of the separate documents }
+autolink_nodes 74 75 nucleus attribution  5075
+create-a-node-here really 33.140 76 {leaked to the New York Times.}
+nextSentence really
+autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e below 5076
+create-a-node-here really 34.11 77 {\nThe papers,}
+autolink_nodes 5075 77 satelite elaboration-general-specific  5077
+create-a-node-here really 34.22 78 { which }
+autolink_nodes 77 78 satelite-embedded elaboration-additional-e  5078
+create-a-node-here really 34.37 79 {Israel says}
+autolink_nodes 78 79 satelite attribution  5079
+create-a-node-here really 34.84 80 { were discovered in Israeli-occupied Gaza, }
+autolink_nodes 5079 80 multinuclear Same-Unit  5080
+create-a-node-here really 34.112 81 {refer to terrorist acts }
+autolink_nodes 5078 81 multinuclear Same-Unit  5081
+create-a-node-here really 34.156 82 {to be carried out in the name of a group}
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5082
+create-a-node-here really 34.195 83 { called "the Revolutionary Eagles."}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5083
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5081}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5081 5074}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5081 5074 5070}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5081 5074 5070 5065}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077 5066}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077 5066 5059}
+create-a-node-here really 36.29 84 { \n\nSome supporters of Israel say}
+autolink_nodes 5065 84 satelite elaboration-additional below 5084
+create-a-node-here really 36.103 85 { U.S. policy on Palestinian terrorism is colored by an intense desire }
+autolink_nodes 84 85 nucleus attribution  5085
+create-a-node-here really 36.145 86 {to maintain the dialogue with the PLO.}
+nextSentence really
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e below 5086
+create-a-node-here really 37.76 87 {\nBut State Department officials accuse Israel of leaking questionable claims }
+autolink_nodes 5086 87 nucleus concession  5087
+create-a-node-here really 37.102 88 {to embarrass the U.S. }
+autolink_nodes 87 88 satelite purpose below 5088
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077 5066 5059 5056}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077 5066 5059 5056 5057}
+collapsed_nodes {5005 5008 5012 5024 5049 5046 5038 5068 5077 5066 5059 5056 5057 5054}
+collapsed_nodes {}
+disconnect_node 29 disconnect
+autolink_nodes 28 29 satelite-embedded attribution-e  5089
+change_rel 5069 result
+disconnect_node 79 disconnect
+autolink_nodes 78 79 satelite-embedded attribution-e  5090
+collapsed_nodes {5054}
+collapsed_nodes {}

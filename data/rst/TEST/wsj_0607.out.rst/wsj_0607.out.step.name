@@ -1,0 +1,73 @@
+nextSentence really
+create-a-node-here really 2.68 1 {\nThree new issues begin trading on the New York Stock Exchange today,}
+create-a-node-here really 2.141 2 { and one began trading on the Nasdaq/National Market System last week.}
+nextSentence really
+autolink_nodes 1 2 multinuclear Inverted-Sequence  5001
+create-a-node-here really 4.42 3 { \n\nOn the Big Board, Crawford & Co., Atlanta,}
+create-a-node-here really 4.51 4 { (CFD)}
+create-a-node-here really 4.76 5 { begins trading today.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded restatement-e  5002
+autolink_nodes 5002 5 multinuclear Same-Unit  5003
+create-a-node-here really 5.38 6 {\nCrawford evaluates health care plans, }
+create-a-node-here really 5.114 7 {manages medical and disability aspects of worker's compensation injuries }
+create-a-node-here really 5.179 8 {and is involved in claims adjustments for insurance companies.}
+nextSentence really
+autolink_nodes 6 7 multinuclear List  5004
+autolink_nodes 5004 8 multinuclear List below 5004
+autolink_nodes 5003 5004 satelite elaboration-additional  5005
+create-a-node-here really 7.103 9 { \n\nAlso beginning trading today on the Big Board are El Paso Refinery Limited Partnership, El Paso, Texas,}
+create-a-node-here really 7.112 10 { (ELP)}
+nextSentence really
+#create-a-node-here really 7.170 11 { and Franklin Multi-Income Trust, San Mateo, Calif., (}
+#create-a-node-here really 7.179 12 {FMI).}
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 9.0 13 {\nEl Paso owns and operates a petroleum refinery.\n}
+#create-a-node-here really 9.59 14 {Franklin is a closed-end management investment company.}
+#nextSentence really
+#UNDID
+#autolink_nodes 5001 5005 satelite elaboration-additional  5006
+#UNDID
+#autolink_nodes 9 10 satelite-embedded restatement-e  5006
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.169 11 { and Franklin Multi-Income Trust, San Mateo, Calif., }
+create-a-node-here really 8.0 12 {(FMI).\n}
+autolink_nodes 5001 5005 satelite elaboration-additional  5006
+autolink_nodes 9 10 satelite restatement  5007
+#autolink_nodes 5007 11 multinuclear List  5008
+#UNDID
+autolink_nodes 5007 11 multinuclear List  5008
+autolink_nodes 11 12 satelite restatement  5009
+#change_rel 5009 OTHER-multinuc
+#UNDID
+change_rel 5007 Same-Unit
+create-a-node-here really 8.51 13 {El Paso owns and operates a petroleum refinery.}
+nextSentence really
+create-a-node-here really 9.55 14 {\nFranklin is a closed-end management investment company.}
+nextSentence really
+autolink_nodes 5008 13 satelite elaboration-additional  5010
+autolink_nodes 5010 14 satelite elaboration-additional  5011
+collapsed_nodes {5005}
+autolink_nodes 5006 5011 satelite elaboration-additional  5012
+create-a-node-here really 11.78 15 { \n\nOn the Nasdaq over-the-counter system, Allied Capital Corp., Washington, D.C.,}
+create-a-node-here really 11.90 16 { (ALII) }
+create-a-node-here really 11.122 17 {began trading last Thursday.}
+nextSentence really
+create-a-node-here really 12.61 18 {\nAllied Capital is a closed-end management investment company }
+create-a-node-here really 12.117 19 {that will operate as a business development concern.}
+nextSentence really
+autolink_nodes 15 16 satelite restatement  5013
+autolink_nodes 5013 17 multinuclear Same-Unit  5014
+autolink_nodes 18 19 satelite elaboration-object-attribute  5015
+autolink_nodes 5014 5015 satelite elaboration-additional  5016
+collapsed_nodes {5005 5011}
+autolink_nodes 5012 5016 satelite elaboration-additional  5017
+collapsed_nodes {5005 5011 5017}
+collapsed_nodes {}

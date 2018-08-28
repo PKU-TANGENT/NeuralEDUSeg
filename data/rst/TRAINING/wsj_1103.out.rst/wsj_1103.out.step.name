@@ -1,0 +1,255 @@
+nextSentence really
+create-a-node-here really 2.54 1 {\nBoston Co., the upper-crust financial services concern}
+create-a-node-here really 2.113 2 { that was rocked by a management scandal late last year,}
+create-a-node-here really 2.155 3 { has had a sharp drop in profitability }
+create-a-node-here really 2.220 4 {-- mainly because a high-risk bet on interest rates backfired.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 satelite reason  5003
+create-a-node-here really 4.96 5 { \n\nBoston Co. 's fall from grace is bad news for its parent, Shearson Lehman Hutton Holdings Inc., }
+nextSentence really
+create-a-node-here really 5.0 6 {which has relied heavily on the banking and money management unit's contributions in recent years.\n}
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 5.92 7 {In 1988, for example, Boston Co. had an estimated pretax profit of at least $110 million,}
+create-a-node-here really 5.150 8 { while Shearson managed net income of just $96 million.}
+nextSentence really
+disconnect_node 6 disconnect
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+#autolink_nodes 7 8 multinuclear Contrast  5006
+#UNDID
+autolink_nodes 7 8 multinuclear Comparison  5006
+autolink_nodes 6 5006 satelite example  5007
+create-a-node-here really 8.0 9 { \n\nShearson doesn't break out the earnings of its subsidiaries.\n}
+create-a-node-here really 8.58 10 {But people familiar with Boston Co. 's performance say }
+create-a-node-here really 8.126 11 {the unit had profit of around $17 million for the third quarter,}
+create-a-node-here really 8.183 12 { after barely breaking even for the first six months.}
+nextSentence really
+#autolink_nodes 11 12 satelite temporal-after  5008
+#UNDID
+#autolink_nodes 11 12 satelite circumstance  5008
+#UNDID
+autolink_nodes 11 12 satelite background  5008
+autolink_nodes 10 5008 nucleus attribution  5009
+autolink_nodes 9 5009 nucleus antithesis  5010
+create-a-node-here really 9.150 13 {\nShearson, meanwhile, posted net income of $106 million for the first nine months of the year, down slightly from $110 million for the year-ago period.}
+#autolink_nodes 5010 13 multinuclear Comparison  5011
+#UNDID
+autolink_nodes 5004 5010 satelite elaboration-additional  5011
+autolink_nodes 5010 13 multinuclear Comparison  5012
+create-a-node-here really 11.172 14 { \n\nMoody's Investors Service Inc. last week downgraded the long-term deposit rating of Boston Co. 's Boston Safe Deposit & Trust Co. subsidiary, to single-A-1 from double-A-3,}
+create-a-node-here really 11.254 15 { citing problems in the company's "aggressively managed securities portfolio."}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 5003 5011 satelite elaboration-additional  5014
+collapsed_nodes {5012}
+collapsed_nodes {5012 5011}
+autolink_nodes 5014 5013 satelite elaboration-additional  5015
+create-a-node-here really 13.42 16 { \n\nJohn Kriz, a Moody's vice president, said }
+create-a-node-here really 13.166 17 {Boston Safe Deposit's performance has been hurt this year by a mismatch in the maturities of its assets and liabilities.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5016
+create-a-node-here really 14.72 18 {\nThe mismatch exposed the company to a high degree of interest-rate risk,}
+#create-a-node-here really 14.110 19 { and when rates moved unfavorably }
+#create-a-node-here really 14.142 20 {-- beginning late last year }
+#create-a-node-here really 14.179 21 {and continuing into this year -- }
+#create-a-node-here really 14.199 22 {"it cost them," }
+#create-a-node-here really 14.217 23 {Mr. Kriz said.}
+#nextSentence really
+#autolink_nodes 20 21 multinuclear Sequence  5017
+#autolink_nodes 19 5017 satelite-embedded elaboration-additional-e  5018
+#autolink_nodes 5018 22 nucleus consequence-n  5019
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 14.81 19 { and }
+create-a-node-here really 14.114 20 {when rates moved unfavorably }
+create-a-node-here really 14.146 21 {-- beginning late last year }
+create-a-node-here really 14.183 22 {and continuing into this year -- }
+create-a-node-here really 14.203 23 {"it cost them," }
+create-a-node-here really 14.222 24 {Mr. Kriz said. }
+autolink_nodes 21 22 multinuclear Sequence  5017
+autolink_nodes 20 5017 satelite-embedded elaboration-additional-e  5018
+autolink_nodes 23 5018 satelite-embedded consequence-n-e  5019
+autolink_nodes 5019 19 multinuclear Same-Unit  5020
+#autolink_nodes 5020 18 satelite background  5021
+#UNDID
+#autolink_nodes 19 18 satelite background  5021
+#UNDID
+autolink_nodes 5020 18 satelite background  5021
+autolink_nodes 5021 24 satelite attribution  5022
+disconnect_node 18 disconnect
+autolink_nodes 5016 18 satelite elaboration-additional  5023
+autolink_nodes 18 5022 satelite evidence  5024
+autolink_nodes 5015 5023 satelite elaboration-additional  5025
+create-a-node-here really 16.15 25 {\n\nMr. Kriz noted }
+create-a-node-here really 16.68 26 {that Boston Safe Deposit "has taken some actions }
+create-a-node-here really 16.117 27 {to better control asset-liability management }
+create-a-node-here really 16.153 28 {and improve controls in general,}
+create-a-node-here really 16.171 29 { and we think }
+create-a-node-here really 16.219 30 {these will serve to improve credit quality."}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5026
+autolink_nodes 26 5026 satelite purpose  5027
+autolink_nodes 29 30 nucleus attribution  5028
+autolink_nodes 5027 5028 multinuclear List  5029
+autolink_nodes 25 5029 nucleus attribution  5030
+create-a-node-here really 16.250 31 { As some securities mature }
+create-a-node-here really 16.286 32 {and the proceeds are reinvested,}
+create-a-node-here really 16.318 33 { the problems ought to ease,}
+create-a-node-here really 16.331 34 { he said.}
+nextSentence really
+autolink_nodes 31 32 multinuclear Sequence  5031
+autolink_nodes 5031 33 nucleus consequence-n  5032
+autolink_nodes 5032 34 satelite attribution  5033
+autolink_nodes 5030 5033 satelite elaboration-additional  5034
+create-a-node-here really 17.111 35 {\nBut he also cited concerns over the company's mortgage exposure in the troubled New England real estate market.}
+nextSentence really
+autolink_nodes 5034 35 nucleus antithesis  5035
+collapsed_nodes {5012 5011 5034}
+collapsed_nodes {5012 5011 5034 5023}
+autolink_nodes 5025 5035 satelite elaboration-additional  5036
+create-a-node-here really 18.108 36 {\nBoston Co. officials declined to comment on Moody's action or on the unit's financial performance this year }
+create-a-node-here really 18.148 37 {-- except to deny a published report}
+create-a-node-here really 18.272 38 { that outside accountants had discovered evidence of significant accounting errors in the first three quarters' results.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 36 5037 nucleus antithesis  5038
+create-a-node-here really 20.76 39 { \n\nAn accounting controversy at the end of last year forced Boston Co. to admit}
+create-a-node-here really 20.134 40 { it had overstated pretax profits by some $44 million.}
+nextSentence really
+autolink_nodes 39 40 nucleus attribution  5039
+create-a-node-here really 21.171 41 {\nThe resulting scandal led to the firing of James N. von Germeten as Boston Co. 's president and to the resignations of the company's chief financial officer and treasurer.}
+nextSentence really
+#create-a-node-here really 22.60 42 {\nThe executives were accused of improperly deferring expenses}
+#create-a-node-here really 22.125 43 { and booking revenue early, in an effort to dress up results }
+#create-a-node-here really 22.180 44 {-- and perhaps bolster performance-related bonuses.}
+#nextSentence really
+#autolink_nodes 5039 41 satelite elaboration-additional  5040
+#autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5041
+#autolink_nodes 42 5041 multinuclear List  5042
+#autolink_nodes 41 5042 satelite elaboration-additional  5043
+#autolink_nodes 5038 5040 satelite elaboration-additional  5044
+#create-a-node-here really 23.89 45 {\nMr. von Germeten, in turn, attributed the controversy to judgmental errors by accountants}
+#create-a-node-here really 23.144 46 { and accused Shearson of conducting a "witch hunt."}
+#nextSentence really
+#autolink_nodes 45 46 multinuclear List  5045
+#collapsed_nodes {5012 5011 5034 5023 5040}
+#collapsed_nodes {5012 5011 5034 5023}
+#autolink_nodes 5043 5045 satelite antithesis  5046
+#UNDID
+#autolink_nodes 5042 5045 multinuclear Contrast above 5046
+#collapsed_nodes {5012 5011 5034 5023 5035}
+#collapsed_nodes {5012 5011 5034 5023 5035 5013}
+#collapsed_nodes {5012 5011 5034 5035 5013}
+#disconnect_node 5035 disconnect
+#collapsed_nodes {5012 5011 5013}
+#disconnect_node 5023 disconnect
+#collapsed_nodes {5012 5011}
+#disconnect_node 5013 disconnect
+#autolink_nodes 5013 5014 satelite background  5047
+#autolink_nodes 5047 5023 satelite elaboration-additional  5048
+#collapsed_nodes {5012 5011 5023}
+#collapsed_nodes {5012 5011 5023 5034}
+#collapsed_nodes {5012 5011 5034}
+#collapsed_nodes {5012 5011 5034 5022}
+#autolink_nodes 5023 5035 satelite elaboration-additional  5049
+#collapsed_nodes {5012 5011 5034 5022 5049}
+#autolink_nodes 5048 5044 satelite elaboration-additional  5050
+#create-a-node-here really 25.25 47 { \n\nMr. Kriz of Moody's said }
+#create-a-node-here really 25.114 48 {the problems in the securities portfolio stem largely from positions taken last year.}
+#create-a-node-here really 26.66 49 {\nThe company's current management found itself "locked into this," }
+#create-a-node-here really 26.78 50 {he said.}
+#nextSentence really
+#autolink_nodes 49 50 satelite attribution  5051
+#autolink_nodes 47 48 nucleus attribution  5052
+#autolink_nodes 5052 5051 nucleus consequence-n  5053
+#collapsed_nodes {5012 5011 5034 5022 5049 5044}
+#autolink_nodes 5050 5053 satelite elaboration-additional  5054
+#collapsed_nodes {5012 5011 5034 5022 5049}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 22.100 42 {\nThe executives were accused of improperly deferring expenses and booking revenue early, in an effort}
+create-a-node-here really 22.125 43 { to dress up results }
+create-a-node-here really 22.180 44 {-- and perhaps bolster performance-related bonuses.}
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 5040 44 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 23.90 45 {\nMr. von Germeten, in turn, attributed the controversy to judgmental errors by accountants }
+create-a-node-here really 23.144 46 {and accused Shearson of conducting a "witch hunt."}
+nextSentence really
+autolink_nodes 45 46 multinuclear List  5042
+autolink_nodes 5041 5042 multinuclear Contrast  5043
+autolink_nodes 41 5043 satelite elaboration-additional  5044
+autolink_nodes 5039 5044 satelite elaboration-additional  5045
+autolink_nodes 5038 5045 satelite elaboration-additional  5046
+collapsed_nodes {5012 5011 5034 5023 5035}
+collapsed_nodes {5012 5011 5023}
+collapsed_nodes {5012 5011 5023 5035}
+autolink_nodes 5036 5046 satelite elaboration-additional  5047
+create-a-node-here really 25.24 47 { \n\nMr. Kriz of Moody's said}
+create-a-node-here really 25.97 48 { the problems in the securities portfolio stem largely from positions}
+create-a-node-here really 25.118 49 { taken last year.}
+nextSentence really
+create-a-node-here really 26.66 50 {\nThe company's current management found itself "locked into this," }
+create-a-node-here really 26.78 51 {he said.}
+nextSentence really
+autolink_nodes 50 51 satelite attribution  5048
+autolink_nodes 47 48 nucleus attribution  5049
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e below 5050
+autolink_nodes 5049 5048 nucleus consequence-n  5051
+collapsed_nodes {5012 5011 5023 5035 5046}
+autolink_nodes 5047 5051 satelite elaboration-additional  5052
+collapsed_nodes {5012 5011 5023 5046}
+collapsed_nodes {5012 5011 5046}
+collapsed_nodes {5046}
+collapsed_nodes {5046 5051}
+collapsed_nodes {5046 5051 5035}
+collapsed_nodes {5046 5051 5035 5023}
+collapsed_nodes {5046 5051 5035 5023 5013}
+collapsed_nodes {5046 5051 5035 5013}
+disconnect_node 24 disconnect
+autolink_nodes 5024 24 satelite attribution  5053
+#disconnect_node 5018 modify
+#UNDID
+disconnect_node 5018 disconnect
+autolink_nodes 5019 5018 satelite consequence-n  5054
+collapsed_nodes {5046 5051 5035}
+collapsed_nodes {5046 5051}
+collapsed_nodes {5051}
+collapsed_nodes {}
+disconnect_node 15 disconnect
+autolink_nodes 14 15 satelite elaboration-additional  5055

@@ -1,0 +1,272 @@
+nextSentence really
+create-a-node-here really 2.10 1 {\nCHICAGO - }
+create-a-node-here really 2.48 2 {Sears, Roebuck & Co. is struggling }
+create-a-node-here really 2.94 3 {as it enters the critical Christmas season.}
+nextSentence really
+autolink_nodes 2 3 satelite temporal-same-time  5001
+showText really
+create-a-node-here really 4.206 4 { \n\nYesterday, the retailing and financial services giant reported a 16% drop in third-quarter earnings to $257.5 million, or 75 cents a share, from a restated $305 million, or 80 cents a share, a year earlier.}
+create-a-node-here really 6.97 5 { \n\nBut the news was even worse for Sears's core U.S. retailing operation, the largest in the nation.}
+create-a-node-here really 7.11 6 {\nSears said }
+create-a-node-here really 8.0 7 {its U.S. stores had a loss of $6.9 million, their first deficit for the period in more than five years.\n}
+create-a-node-here really 8.22 8 {Analysts estimated }
+create-a-node-here really 8.80 9 {that sales at U.S. stores declined in the quarter, too.}
+create-a-node-here really 10.43 10 { \n\nThe results underscore Sears's difficulties}
+create-a-node-here really 10.100 11 { in implementing the "everyday low pricing" strategy }
+create-a-node-here really 10.155 12 {that it adopted in March as part of a broad attempt}
+create-a-node-here really 11.0 13 { to revive its retailing business.\n}
+create-a-node-here really 11.45 14 {Under the new approach, Sears set prices }
+create-a-node-here really 12.0 15 {that were somewhere between its old "regular" and "sale" prices.\n}
+create-a-node-here really 12.21 16 {The company said }
+create-a-node-here really 12.75 17 {it would resort far less often to slashing prices }
+create-a-node-here really 12.96 18 {to woo shoppers. }
+autolink_nodes 7 6 satelite attribution  5002
+autolink_nodes 9 8 satelite attribution  5003
+autolink_nodes 5003 5002 multinuclear List  5004
+autolink_nodes 5 5004 satelite elaboration-general-specific  5005
+collapsed_nodes {5004}
+autolink_nodes 12 13 satelite purpose  5006
+autolink_nodes 11 5006 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 10 5007 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 17 16 satelite attribution  5010
+autolink_nodes 17 18 satelite purpose below 5011
+autolink_nodes 5010 5009 multinuclear List  5012
+autolink_nodes 5008 5012 satelite elaboration-additional  5013
+create-a-node-here really 14.23 19 {\n\nSears officials insist }
+create-a-node-here really 15.0 20 {they don't intend to abandon the everyday pricing approach in the face of the poor results.\n}
+create-a-node-here really 15.84 21 {Instead, a spokesman blames the dismal third-quarter showing on "an environment }
+create-a-node-here really 15.165 22 {that is being distorted by a very harsh climate for sales of durable goods," }
+create-a-node-here really 15.243 23 {which account for roughly two-thirds of Sears's annual merchandise volume.}
+create-a-node-here really 17.39 24 { \n\nThe new pricing strategy "is working," }
+create-a-node-here really 18.0 25 {the spokesman asserted.\n}
+create-a-node-here really 18.13 26 {He added }
+create-a-node-here really 18.23 27 {that, }
+create-a-node-here really 18.50 28 {after an initial surge }
+create-a-node-here really 18.98 29 {triggered by an advertising blitz in March, }
+create-a-node-here really 18.117 30 {Sears expected }
+create-a-node-here really 19.0 31 {that the pricing program wouldn't have any effect on revenue.\n}
+create-a-node-here really 19.38 32 {Sears has been counting on growth }
+create-a-node-here really 19.99 33 {coming from the large displays of brand-name merchandise }
+create-a-node-here really 19.154 34 {it is adding to its stores over the next two years }
+create-a-node-here really 19.192 35 {in what it calls "power formats." }
+autolink_nodes 20 19 satelite attribution  5014
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 21 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 24 25 satelite attribution  5017
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5018
+#autolink_nodes 30 5018 satelite temporal-after  5019
+#UNDID
+autolink_nodes 30 5018 satelite-embedded temporal-after-e  5019
+autolink_nodes 5019 27 multinuclear Same-Unit  5020
+autolink_nodes 30 31 nucleus attribution  5021
+autolink_nodes 5020 26 satelite attribution  5022
+autolink_nodes 5017 5022 satelite evidence  5023
+autolink_nodes 34 35 satelite means  5024
+autolink_nodes 33 5024 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 32 5025 satelite-embedded elaboration-object-attribute-e  5026
+#autolink_nodes 5023 5016 multinuclear Conclusion  5027
+#UNDID
+autolink_nodes 5023 5016 multinuclear List  5027
+collapsed_nodes {5004 5022}
+autolink_nodes 5027 5026 multinuclear List below 5027
+autolink_nodes 5014 5027 satelite reason  5028
+create-a-node-here really 21.17 36 {\n\nBut analysts say }
+create-a-node-here really 21.111 37 {Sears faces an especially daunting challenge on the eve of the Christmas shopping season. }
+create-a-node-here really 21.126 38 {"I believe }
+create-a-node-here really 21.189 39 {everyday pricing in the current environment doesn't work," }
+#create-a-node-here really 21.380 40 {says Walter Loeb of Morgan Stanley & Co., pointing to soft durable-goods sales. "Sears is likely to be unsuccessful if it continues with its pricing policy when everyone else is offering }
+#create-a-node-here really 23.0 41 {>unusual values." \n\n}
+#UNDID
+#UNDID
+create-a-node-here really 21.235 40 {says Walter Loeb of Morgan Stanley & Co., }
+create-a-node-here really 21.276 41 {pointing to soft durable-goods sales.}
+create-a-node-here really 21.317 42 { "Sears is likely to be unsuccessful }
+create-a-node-here really 21.361 43 {if it continues with its pricing policy }
+create-a-node-here really 21.413 44 {when everyone else is offering unusual values." }
+create-a-node-here really 23.32 45 {\n\nIn what amounts to an admission }
+create-a-node-here really 23.80 46 {that the transition hasn't gone as smoothly }
+create-a-node-here really 23.104 47 {as Sears had hoped, }
+create-a-node-here really 23.150 48 {the giant retailer is now trying new ways }
+create-a-node-here really 23.174 49 {to drum up business }
+create-a-node-here really 23.236 50 {without appearing to abandon its seven-month-old strategy.}
+create-a-node-here really 24.77 51 {\nThe company is highlighting more special deals in its advertising and stores,}
+create-a-node-here really 24.154 52 { and it's offering to defer finance charges on certain big-ticket items. }
+autolink_nodes 37 36 satelite attribution  5029
+autolink_nodes 39 38 satelite attribution  5030
+autolink_nodes 5030 40 satelite attribution  5031
+autolink_nodes 41 5031 multinuclear Same-Unit  5032
+autolink_nodes 42 43 satelite condition  5033
+autolink_nodes 5033 44 satelite condition  5034
+autolink_nodes 5034 5032 multinuclear List  5035
+autolink_nodes 5029 5035 satelite elaboration-general-specific  5036
+collapsed_nodes {5004 5022 5035}
+autolink_nodes 46 47 satelite comparison  5037
+autolink_nodes 45 5037 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 5038 48 multinuclear Same-Unit  5039
+autolink_nodes 48 49 satelite purpose  5040
+autolink_nodes 5040 50 satelite manner  5041
+autolink_nodes 5039 5036 multinuclear List above 5042
+collapsed_nodes {5004 5022 5035 5039}
+collapsed_nodes {5004 5022 5035 5039 5027}
+autolink_nodes 5042 5028 multinuclear List below 5042
+create-a-node-here really 26.45 53 {\n\nSears is also stepping up its television ads }
+create-a-node-here really 26.74 54 {and changing its message.}
+create-a-node-here really 27.38 55 {\nIn a new TV ad, for instance, a woman }
+create-a-node-here really 27.77 56 {going through the Sunday newspaper }
+create-a-node-here really 27.119 57 {brands as hype claims by other stores }
+create-a-node-here really 27.180 58 {that they are offering goods for "50%, 60% and 70% off." }
+create-a-node-here really 27.225 59 {By lowering prices throughout its stores,}
+create-a-node-here really 27.239 60 { she says,}
+create-a-node-here really 27.272 61 { "Sears has the right idea." }
+create-a-node-here really 29.39 62 {\n\nBut the ad also mentions Sears's sales }
+create-a-node-here really 29.54 63 {-- a topic }
+create-a-node-here really 29.88 64 {that the retailer has avoided }
+create-a-node-here really 29.129 65 {since switching to everyday pricing. }
+create-a-node-here really 29.177 66 {"When Sears has a sale at a special price," }
+create-a-node-here really 29.210 67 {the woman in the ad declares,}
+create-a-node-here really 29.231 68 { "it's something }
+create-a-node-here really 29.260 69 {you don't want to miss." }
+create-a-node-here really 31.90 70 {\n\nRecent surveys by Leo J. Shapiro & Associates, a market research firm in Chicago, suggest }
+create-a-node-here really 31.128 71 {that Sears is having a tough time }
+create-a-node-here really 31.152 72 {attracting shoppers }
+create-a-node-here really 31.190 73 {because it hasn't yet done enough }
+create-a-node-here really 32.0 74 {to improve service or its selection of merchandise.\n}
+create-a-node-here really 32.25 75 {The number of people }
+create-a-node-here really 32.38 76 {who said }
+create-a-node-here really 32.81 77 {they were more likely to shop at Sears }
+create-a-node-here really 32.128 78 {fell in September to 37% from 66% in March,}
+create-a-node-here really 32.208 79 { when Sears blanketed the airwaves with ads about its new pricing strategy. }
+create-a-node-here really 34.31 80 {\n\nMoreover, the number of people }
+create-a-node-here really 34.114 81 {who spontaneously cited lower prices as the reason for their interest in Sears }
+create-a-node-here really 35.0 82 {declined to 16% in September from 33% in March.\n}
+create-a-node-here really 36.0 83 {Just 5% of the respondents mentioned brands in September, up slightly from 2% in March.\n}
+create-a-node-here really 36.75 84 {Only 2% of the people in September cited Sears's "friendly personnel." }
+create-a-node-here really 38.33 85 {\n\n"The power of price as an appeal,}
+create-a-node-here really 38.105 86 { which was very considerable in driving traffic in March and April, }
+create-a-node-here really 38.126 87 {has diminished," }
+create-a-node-here really 38.188 88 {says George Rosenbaum, president of Shapiro & Associates. }
+create-a-node-here really 38.240 89 {"You see some improvement in these other areas, }
+create-a-node-here really 38.285 90 {but it's a very small and slow process." }
+create-a-node-here really 40.23 91 {\n\nFor the third quarter, }
+create-a-node-here really 40.38 92 {Sears said }
+create-a-node-here really 40.124 93 {its total revenue rose 4.8% to $13.18 billion from $12.57 billion a year earlier. }
+create-a-node-here really 42.40 94 {\n\nNet income at Sears's merchandise group,}
+create-a-node-here really 42.126 95 { which includes international and credit card operations, as well as U.S. stores, }
+create-a-node-here really 42.140 96 {fell 25%. }
+create-a-node-here really 44.69 97 {\n\nProfit at Sears's Allstate insurance unit fell 38% to $126.1 million }
+create-a-node-here really 44.99 98 {because of Hurricane Hugo,}
+create-a-node-here really 45.0 99 { which inflicted the greatest single storm damage loss in the company's history.\n}
+create-a-node-here really 45.15 100 {Sears said }
+create-a-node-here really 45.43 101 {claims from the storm, }
+create-a-node-here really 45.61 102 {as expected, }
+create-a-node-here really 45.133 103 {reduced its third-quarter net by $80 million, or 23 cents a share. }
+create-a-node-here really 47.69 104 {\n\nAllstate is expected to absorb another big hit in the fourth quarter }
+create-a-node-here really 48.0 105 {as claims pour in from the San Francisco earthquake.\n}
+create-a-node-here really 48.26 106 {But a spokesman said }
+create-a-node-here really 48.90 107 {the quake won't have as big a financial impact on Allstate }
+create-a-node-here really 48.118 108 {as Hurricane Hugo did. }
+create-a-node-here really 50.106 109 {\n\nNet income at Sears's Dean Witter Financials Services group, meanwhile, rose nearly 32% to $35.7 million, }
+create-a-node-here really 51.0 110 {reflecting improvements in its basic stock brokerage and Discover credit card businesses.\n}
+create-a-node-here really 51.92 111 {Profit at Sears's Coldwell Banker Real Estate Group nearly quadrupled to $81.2 million }
+create-a-node-here really 51.136 112 {because of gains on sales of property. }
+create-a-node-here really 53.101 113 {\n\nIn New York Stock Exchange composite trading yesterday, Sears shares closed at $40.50, up 87.5 cents.}
+autolink_nodes 52 51 multinuclear List  5043
+autolink_nodes 54 53 multinuclear List  5044
+autolink_nodes 5044 5043 multinuclear List above 5045
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5046
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5047
+autolink_nodes 5047 5046 multinuclear Same-Unit  5048
+autolink_nodes 59 60 satelite-embedded attribution-e  5049
+autolink_nodes 61 5049 satelite manner  5050
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 64 65 satelite circumstance  5052
+autolink_nodes 62 5051 satelite-embedded elaboration-additional-e  5053
+autolink_nodes 5053 5050 multinuclear List  5054
+autolink_nodes 5054 5048 multinuclear Contrast above 5055
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5056
+autolink_nodes 5056 67 satelite attribution  5057
+autolink_nodes 5057 66 satelite circumstance  5058
+autolink_nodes 5053 5058 satelite example  5059
+collapsed_nodes {5004 5022 5035 5039 5027 5058}
+autolink_nodes 5044 5055 satelite example  5060
+collapsed_nodes {5004 5022 5035 5039 5027 5058 5055}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038}
+autolink_nodes 5041 5045 satelite elaboration-general-specific  5061
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045}
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 73 5062 multinuclear Cause-Result  5063
+autolink_nodes 5063 70 satelite attribution  5064
+autolink_nodes 77 76 satelite attribution  5065
+autolink_nodes 75 5065 satelite-embedded elaboration-object-attribute-e  5066
+autolink_nodes 78 5066 multinuclear Same-Unit  5067
+autolink_nodes 5067 79 satelite circumstance  5068
+autolink_nodes 80 81 satelite-embedded elaboration-object-attribute-e  5069
+autolink_nodes 82 5069 multinuclear Same-Unit  5070
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065}
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5071
+autolink_nodes 83 5070 multinuclear List  5072
+autolink_nodes 5072 84 multinuclear List below 5072
+autolink_nodes 5068 5072 satelite elaboration-set-member  5073
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072}
+autolink_nodes 85 86 satelite-embedded elaboration-additional-e  5074
+autolink_nodes 87 5074 multinuclear Same-Unit  5075
+autolink_nodes 5075 88 satelite attribution  5076
+autolink_nodes 89 90 satelite antithesis  5077
+autolink_nodes 5077 5076 satelite circumstance  5078
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076}
+autolink_nodes 5073 5078 satelite elaboration-additional  5079
+autolink_nodes 5064 5079 satelite evidence  5080
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061}
+autolink_nodes 5042 5080 multinuclear List below 5080
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036}
+autolink_nodes 5042 5013 satelite background  5081
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013}
+autolink_nodes 5081 5005 multinuclear Problem-Solution  5082
+autolink_nodes 5082 4 multinuclear Comparison above 5083
+autolink_nodes 5083 5001 satelite circumstance  5084
+#autolink_nodes 92 93 nucleus attribution  5085
+#UNDID
+autolink_nodes 91 92 satelite-embedded attribution-e  5085
+autolink_nodes 93 5085 multinuclear Same-Unit  5086
+autolink_nodes 94 95 satelite-embedded elaboration-additional-e  5087
+autolink_nodes 96 5087 multinuclear Same-Unit  5088
+autolink_nodes 97 98 satelite result  5089
+autolink_nodes 98 99 satelite-embedded elaboration-additional-e  5090
+#autolink_nodes 101 102 satelite comment  5091
+#UNDID
+autolink_nodes 101 102 satelite-embedded comment-e  5091
+autolink_nodes 103 5091 multinuclear Same-Unit  5092
+autolink_nodes 5092 100 satelite attribution  5093
+autolink_nodes 5089 5093 satelite elaboration-additional  5094
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013 5093}
+autolink_nodes 104 105 satelite circumstance  5095
+autolink_nodes 107 108 satelite comparison  5096
+autolink_nodes 5096 106 satelite attribution  5097
+autolink_nodes 5095 5097 satelite elaboration-additional  5098
+autolink_nodes 109 110 satelite result  5099
+autolink_nodes 111 112 satelite result  5100
+autolink_nodes 5100 5099 multinuclear List  5101
+autolink_nodes 5098 5094 multinuclear Comparison  5102
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013 5093 5098}
+autolink_nodes 5101 5102 multinuclear List below 5102
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013 5093 5098 5102}
+autolink_nodes 5101 5088 multinuclear List below 5102
+autolink_nodes 5086 5101 satelite elaboration-general-specific  5103
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013 5093 5098 5102 5101}
+collapsed_nodes {5004 5022 5035 5027 5058 5055 5038 5045 5065 5072 5076 5079 5061 5012 5006 5080 5036 5013 5093 5098 5102 5101 5082}
+autolink_nodes 5084 5103 satelite elaboration-additional  5104
+autolink_nodes 5103 113 satelite elaboration-additional  5105
+#autolink_nodes 5104 113 satelite elaboration-additional  5106
+#UNDID
+change_constit 1 Point-of-Origin
+change_constit 5104 Text
+autolink_nodes 5104 1 multinuclear TextualOrganization  5106
+collapsed_nodes {}

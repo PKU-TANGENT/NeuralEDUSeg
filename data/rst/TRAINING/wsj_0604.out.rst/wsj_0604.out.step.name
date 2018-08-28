@@ -1,0 +1,1107 @@
+nextSentence really
+create-a-node-here really 2.49 1 {\nKidder, Peabody & Co. is trying to struggle back.}
+nextSentence really
+create-a-node-here really 4.96 2 { \n\nOnly a few months ago, the 124-year-old securities firm seemed to be on the verge of a meltdown,}
+create-a-node-here really 4.144 3 { racked by internal squabbles and defections.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 5.123 4 {\nIts relationship with parent General Electric Co. had been frayed since a big Kidder insider-trading scandal two years ago.}
+nextSentence really
+#autolink_nodes 5001 4 multinuclear List  5002
+#UNDID
+#autolink_nodes 5001 4 satelite elaboration-additional  5002
+#UNDID
+autolink_nodes 5001 4 multinuclear List  5002
+create-a-node-here really 6.51 5 {\nChief executives and presidents had come and gone. }
+autolink_nodes 5002 5 satelite elaboration-additional  5003
+create-a-node-here really 8.19 6 {\n\nNow, the firm says }
+create-a-node-here really 8.46 7 {it's at a turning point.}
+nextSentence really
+#autolink_nodes 6 7 satelite attribution  5004
+#UNDID
+autolink_nodes 6 7 nucleus attribution  5004
+autolink_nodes 5003 5004 multinuclear Contrast  5005
+autolink_nodes 1 5005 nucleus summary-s  5006
+create-a-node-here really 9.61 8 {\nBy the end of this year, 63-year-old Chairman Silas Cathcart }
+create-a-node-here really 9.110 9 {-- the former chairman of Illinois Tool Works }
+create-a-node-here really 9.153 10 {who was derided as a "tool-and-die man" }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 9.180 11 {when GE brought him in }
+autolink_nodes 10 11 satelite temporal-same-time  5008
+autolink_nodes 10 11 satelite-embedded temporal-same-time  5009
+create-a-node-here really 9.214 12 {to clean up Kidder in 1987 -- }
+autolink_nodes 11 12 satelite purpose  5010
+autolink_nodes 8 5007 satelite-embedded elaboration-additional-e  5011
+create-a-node-here really 9.257 13 {retires to his Lake Forest, Ill., home,}
+autolink_nodes 5011 13 multinuclear Same-Unit  5012
+disconnect_node 5010 modify
+autolink_nodes 10 5010 satelite temporal-same-time  5013
+#create-a-node-here really 9.317 14 { possibly to build a shopping mall on some land he owns.}
+#nextSentence really
+#autolink_nodes 13 14 satelite hypothetical  5014
+#create-a-node-here really 9.351 15 { "I've done what I came to do"}
+#UNDID
+#create-a-node-here really 9.363 15 { "I've done what I came to do" at Kidder, }
+#create-a-node-here really 9.375 16 {he says.}
+#autolink_nodes 15 16 satelite attribution  5015
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.309 14 { possibly to build a shopping mall on some land }
+autolink_nodes 13 14 satelite hypothetical  5014
+create-a-node-here really 9.321 15 {he owns.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 9.367 16 { "I've done what I came to do" at Kidder, }
+create-a-node-here really 9.379 17 {he says.}
+nextSentence really
+autolink_nodes 16 17 satelite attribution  5016
+autolink_nodes 5012 5016 satelite elaboration-additional  5017
+disconnect_node 5010 modify
+autolink_nodes 10 5010 satelite circumstance  5018
+#create-a-node-here really 11.15 18 { \n\nAnd that means }
+#UNDID
+create-a-node-here really 11.147 18 { \n\nAnd that means 42-year-old Michael Carpenter, president and chief executive since January, will for the first time take complete control of Kidder }
+create-a-node-here really 11.196 19 {and try to make good on some grandiose plans.}
+autolink_nodes 18 19 multinuclear Sequence  5019
+autolink_nodes 5017 5019 satelite interpretation-s  5020
+create-a-node-here really 12.19 20 {\nMr. Carpenter says }
+create-a-node-here really 12.86 21 {he will return Kidder to prominence as a great investment bank.}
+nextSentence really
+autolink_nodes 20 21 nucleus attribution  5021
+autolink_nodes 5019 5021 satelite elaboration-additional  5022
+create-a-node-here really 14.40 22 { \n\nWall Street is understandably skeptical.}
+nextSentence really
+autolink_nodes 5020 22 multinuclear Contrast  5023
+create-a-node-here really 15.192 23 {\nThrough the first nine months of the year, Kidder ranks a distant 10th among underwriters of U.S. stocks and bonds, with a 2.8% market share, up slightly from 2.5% in the year-earlier period, }
+create-a-node-here really 15.228 24 {according to Securities Data Co.}
+autolink_nodes 23 24 satelite attribution  5024
+#disconnect_node 1 disconnect
+#UNDID
+disconnect_node 1 disconnect
+autolink_nodes 1 5005 satelite summary-n  5025
+create-a-node-here really 16.40 25 {\nIt's quite a fall from the early 1980s, }
+create-a-node-here really 16.110 26 {when Kidder still was counted as an investment-banking powerhouse.}
+#autolink_nodes 25 26 satelite temporal-same-time  5026
+#UNDID
+#autolink_nodes 25 26 satelite circumstance  5026
+#UNDID
+autolink_nodes 25 26 satelite temporal-same-time  5026
+create-a-node-here really 17.82 27 {\nGary S. Goldstein, president of the Whitney Group, an executive search firm, said:}
+create-a-node-here really 17.121 28 { "I'd like to see (Kidder) succeed.}
+nextSentence really
+autolink_nodes 27 28 nucleus attribution  5027
+create-a-node-here really 18.45 29 {\nBut they have to attract good senior bankers }
+autolink_nodes 28 29 satelite enablement below 5028
+create-a-node-here really 18.93 30 {who can bring in the business from day one."}
+nextSentence really
+#autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5029
+#autolink_nodes 5024 5026 multinuclear Comparison  5030
+#UNDID
+#UNDID
+autolink_nodes 5024 5026 multinuclear Comparison  5029
+autolink_nodes 22 5029 satelite explanation-argumentative  5030
+#autolink_nodes 5020 5025 nucleus circumstance  5031
+#UNDID
+autolink_nodes 5020 5025 nucleus circumstance  5031
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5032
+#disconnect_node 5032 disconnect
+#autolink_nodes 28 5032 satelite enablement below 5033
+#UNDID
+#UNDID
+#autolink_nodes 5023 5027 satelite evaluation-s  5033
+#UNDID
+autolink_nodes 5029 5027 satelite evaluation-s  5033
+create-a-node-here really 20.46 31 { \n\nIn 1988, Kidder eked out a $46 million profit,}
+create-a-node-here really 20.89 32 { mainly because of severe cost cutting.}
+autolink_nodes 31 32 satelite explanation-argumentative  5034
+#create-a-node-here really 21.85 33 {\nIts 1,400-member brokerage operation reported an estimated $5 million loss last year,}
+#autolink_nodes 5034 33 multinuclear Contrast  5035
+#UNDID
+#UNDID
+create-a-node-here really 21.86 33 {\nIts 1,400-member brokerage operation reported an estimated $5 million loss last year, }
+autolink_nodes 5034 33 multinuclear Contrast  5035
+create-a-node-here really 21.144 34 {although Kidder expects it to turn a profit this year.}
+nextSentence really
+autolink_nodes 33 34 satelite concession  5036
+autolink_nodes 5033 5035 satelite elaboration-additional  5037
+create-a-node-here really 23.63 35 { \n\nIn fact, Kidder is a minor player in just about every business }
+create-a-node-here really 23.75 36 {it does }
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 23.119 37 {except computer-driven program trading; }
+autolink_nodes 5038 37 multinuclear Same-Unit  5039
+autolink_nodes 5036 5039 satelite elaboration-additional  5040
+create-a-node-here really 23.195 38 {in that controversial business, only Morgan Stanley & Co. rivals Kidder.}
+nextSentence really
+autolink_nodes 37 38 satelite explanation-argumentative  5041
+create-a-node-here really 24.36 39 {\nBut even that niche is under attack,}
+autolink_nodes 5041 39 nucleus antithesis  5042
+create-a-node-here really 24.147 40 { as several Wall Street firms pulled back from program trading last week under pressure from big investors.}
+nextSentence really
+autolink_nodes 39 40 satelite circumstance below 5043
+create-a-node-here really 26.50 41 { \n\nMr. Carpenter, a former consulting-firm executive }
+create-a-node-here really 26.88 42 {who has a love for "task forces," }
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5044
+create-a-node-here really 26.97 43 {says }
+autolink_nodes 5044 43 multinuclear Same-Unit  5045
+create-a-node-here really 26.161 44 {he has done a "complete rethink" of Kidder in recent months.}
+nextSentence really
+autolink_nodes 43 44 nucleus attribution  5046
+create-a-node-here really 27.70 45 {\nThere have been a dizzying parade of studies of the firm's operations.}
+nextSentence really
+create-a-node-here really 28.93 46 {\nMore than 20 new managing directors and senior vice presidents have been hired since January.}
+nextSentence really
+autolink_nodes 45 46 multinuclear List  5047
+create-a-node-here really 29.44 47 {\nThe firm's brokerage force has been trimmed }
+create-a-node-here really 29.119 48 {and its mergers-and-acquisitions staff increased to a record 55 people.}
+nextSentence really
+autolink_nodes 47 48 multinuclear List  5048
+autolink_nodes 5047 5048 multinuclear List above 5049
+autolink_nodes 44 5049 satelite cause below 5050
+create-a-node-here really 31.19 49 { \n\nMr. Carpenter says }
+create-a-node-here really 31.28 50 {that }
+create-a-node-here really 31.61 51 {when he assumes full control,}
+create-a-node-here really 31.110 52 { Kidder will finally tap the resources of GE.}
+nextSentence really
+autolink_nodes 51 52 nucleus-embedded circumstance-e  5051
+autolink_nodes 50 5051 multinuclear Same-Unit  5052
+autolink_nodes 49 5052 nucleus attribution  5053
+autolink_nodes 5046 5053 satelite elaboration-additional  5054
+disconnect_node 5049 modify
+autolink_nodes 44 5049 satelite evidence below 5055
+disconnect_node 5053 modify
+autolink_nodes 5046 5053 satelite interpretation-s  5056
+disconnect_node 5053 disconnect
+disconnect_node 5049 disconnect
+#autolink_nodes 5045 5049 satelite evidence  5057
+#UNDID
+autolink_nodes 5045 5049 satelite evidence  5057
+autolink_nodes 5049 5053 satelite interpretation-s  5058
+disconnect_node 5053 disconnect
+autolink_nodes 5057 5053 satelite elaboration-additional  5059
+autolink_nodes 5031 5059 satelite means  5060
+#disconnect_node 5053 modify
+#autolink_nodes 5057 5053 satelite interpretation-s  5061
+#UNDID
+#UNDID
+disconnect_node 5059 disconnect
+#disconnect_node 5030 disconnect
+#UNDID
+disconnect_node 5031 disconnect
+disconnect_node 5020 disconnect
+autolink_nodes 5021 5030 multinuclear Contrast  5061
+disconnect_node 5053 modify
+#autolink_nodes 5004 5053 satelite explanation-argumentative  5062
+#UNDID
+autolink_nodes 5004 5053 satelite explanation-argumentative  5062
+#autolink_nodes 5062 5020 satelite explanation-argumentative  5063
+#UNDID
+disconnect_node 5053 disconnect
+autolink_nodes 5049 5053 satelite interpretation-s  5063
+disconnect_node 5022 disconnect
+autolink_nodes 5019 5017 nucleus interpretation-s  5064
+disconnect_node 5061 disconnect
+#autolink_nodes 5005 5064 satelite explanation-argumentative  5065
+#UNDID
+autolink_nodes 5004 5064 satelite explanation-argumentative  5065
+disconnect_node 5030 disconnect
+autolink_nodes 5019 5021 satelite elaboration-additional  5066
+disconnect_node 5037 disconnect
+disconnect_node 5021 disconnect
+autolink_nodes 5019 5021 satelite elaboration-additional  5067
+autolink_nodes 5067 22 multinuclear Contrast  5068
+autolink_nodes 22 5037 satelite explanation-argumentative  5069
+#autolink_nodes 5025 5057 satelite elaboration-additional  5070
+#UNDID
+autolink_nodes 5025 5057 satelite means  5070
+disconnect_node 5053 disconnect
+autolink_nodes 5057 5053 multinuclear List  5071
+create-a-node-here really 32.17 53 {\nOne of GE's goals}
+create-a-node-here really 32.58 54 { when it bought 80% of Kidder in 1986}
+autolink_nodes 53 54 satelite-embedded temporal-same-time-e  5072
+create-a-node-here really 32.179 55 { was to take advantage of "syngeries" between Kidder and General Electric Capital Corp., GE's corporate-finance unit,}
+autolink_nodes 5072 55 multinuclear Same-Unit  5073
+create-a-node-here really 32.216 56 { which has $42 billion in assets.}
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5074
+create-a-node-here really 33.71 57 {\nThe leveraged buy-out group of GE Capital now reports to Mr. Carpenter.}
+nextSentence really
+disconnect_node 5069 modify
+autolink_nodes 5067 5069 multinuclear Evaluation  5075
+#autolink_nodes 5073 57 multinuclear List above 5076
+#UNDID
+autolink_nodes 5053 5073 satelite explanation-argumentative  5076
+autolink_nodes 5053 57 satelite evidence above 5076
+create-a-node-here really 35.8 58 { \n\nSo far, }
+create-a-node-here really 35.35 59 {instead of teaming up, }
+create-a-node-here really 35.103 60 {GE Capital staffers and Kidder investment bankers have bickered.}
+autolink_nodes 59 60 nucleus-embedded antithesis-e  5077
+autolink_nodes 58 5077 multinuclear Same-Unit  5078
+disconnect_node 54 modify
+autolink_nodes 53 54 satelite-embedded circumstance-e  5079
+disconnect_node 57 disconnect
+autolink_nodes 5073 57 satelite elaboration-additional  5080
+disconnect_node 57 disconnect
+#disconnect_node 5073 disconnect
+#UNDID
+disconnect_node 5073 disconnect
+autolink_nodes 5073 57 nucleus background  5081
+autolink_nodes 5053 5081 satelite explanation-argumentative  5082
+#create-a-node-here really 36.24 61 {\nYet, says Mr. Carpenter,}
+#create-a-node-here really 36.51 62 { "We've really started }
+#autolink_nodes 61 62 nucleus attribution  5083
+#create-a-node-here really 36.117 63 {to exploit the synergy between GE Capital and Kidder Peabody."}
+#nextSentence really
+#autolink_nodes 62 63 satelite purpose below 5084
+#autolink_nodes 5078 5083 satelite antithesis  5085
+#UNDID
+#autolink_nodes 5078 5083 nucleus antithesis  5085
+#autolink_nodes 57 5085 satelite elaboration-additional above 5085
+#UNDID
+#autolink_nodes 5081 5085 satelite elaboration-additional  5086
+#create-a-node-here really 36.186 64 { The units have worked on 37 investment banking deals this year, }
+#create-a-node-here really 36.199 65 {he says, }
+#autolink_nodes 64 65 nucleus-embedded attribution-e  5087
+#UNDID
+#autolink_nodes 64 65 satelite-embedded attribution-e  5087
+#UNDID
+#autolink_nodes 64 65 satelite-embedded attribution-e  5087
+#create-a-node-here really 36.242 66 {though not all of them have panned out.}
+#autolink_nodes 64 66 satelite concession below 5088
+#UNDID
+#disconnect_node 65 disconnect
+#autolink_nodes 64 65 satelite attribution  5088
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 64 65 satelite attribution  5087
+#create-a-node-here really 36.242 66 {though not all of them have panned out.}
+#autolink_nodes 5087 66 satelite concession  5088
+#UNDID
+#autolink_nodes 64 66 satelite concession below 5088
+#UNDID
+#autolink_nodes 64 66 satelite concession above 5087
+#create-a-node-here really 38.40 67 { \n\n"We've had a good relationship with GE, }
+#UNDID
+#UNDID
+#autolink_nodes 5087 66 satelite concession  5088
+#autolink_nodes 5083 5088 satelite elaboration-additional below 5089
+#create-a-node-here really 38.39 67 { \n\n"We've had a good relationship with GE,}
+#create-a-node-here really 38.68 68 { which is the first time }
+#autolink_nodes 67 68 satelite-embedded elaboration-additional-e  5090
+#create-a-node-here really 38.90 69 {you could say that}
+#autolink_nodes 67 69 satelite-embedded elaboration-object-attribute-e below 5091
+#UNDID
+#autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5091
+#create-a-node-here really 38.123 70 { -- uh, let me withdraw that.}
+#nextSentence really
+#autolink_nodes 5090 70 multinuclear Contrast  5092
+#create-a-node-here really 39.45 71 {\nIt's been a steadily improving relationship,"}
+#create-a-node-here really 39.69 72 { says Mr. Carpenter.}
+#nextSentence really
+#autolink_nodes 71 72 satelite attribution  5093
+#disconnect_node 70 modify
+#autolink_nodes 5090 70 satelite attribution  5094
+#UNDID
+#autolink_nodes 5090 70 satelite attribution-n  5094
+#autolink_nodes 5094 5093 satelite interpretation-s  5095
+#disconnect_node 5093 disconnect
+#autolink_nodes 5094 5093 multinuclear Interpretation  5096
+#autolink_nodes 5089 5096 satelite interpretation-s below 5097
+#create-a-node-here really 41.33 73 { \n\nStill, without many actual deals }
+#create-a-node-here really 41.50 74 {to show off, }
+#autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5098
+#create-a-node-here really 41.69 75 {Kidder is left }
+#create-a-node-here really 41.83 76 {to stress }
+#autolink_nodes 75 76 satelite purpose  5099
+#create-a-node-here really 41.126 77 {that it finally has "a team" in place, }
+#autolink_nodes 76 77 nucleus attribution  5100
+#create-a-node-here really 41.162 78 {and that everyone works harder. }
+#autolink_nodes 77 78 multinuclear List  5101
+#autolink_nodes 5098 5099 multinuclear Same-Unit  5102
+#autolink_nodes 5071 5102 satelite temporal-same-time  5103
+#create-a-node-here really 43.30 79 {\n\nA month ago, the firm started }
+#create-a-node-here really 43.75 80 {serving dinner at about 7:30 each night; }
+#autolink_nodes 79 80 satelite purpose  5104
+#create-a-node-here really 43.188 81 {about 50 to 60 of the 350 people in the investment banking operation have consistently been around that late.}
+#nextSentence really
+#autolink_nodes 5104 81 satelite explanation-argumentative  5105
+#autolink_nodes 5102 5105 satelite evidence  5106
+#create-a-node-here really 43.278 82 { "We are working significantly longer and harder than has been the case in the past," }
+#create-a-node-here really 43.353 83 {says Scott C. Newquist, Kidder's head of investment banking since June.}
+#nextSentence really
+#autolink_nodes 82 83 satelite attribution  5107
+#autolink_nodes 5105 5107 satelite evaluation-s  5108
+#create-a-node-here really 45.55 84 { \n\nEverywhere, Kidder stresses the "always working" theme.}
+#nextSentence really
+#create-a-node-here really 46.38 85 {\nA new in-house magazine, Kidder World }
+#create-a-node-here really 46.93 86 {-- which will focus on the firm's synergy strategy,}
+#autolink_nodes 85 86 satelite-embedded elaboration-additional-e  5109
+#UNDID
+#autolink_nodes 85 86 satelite-embedded elaboration-general-specific-e  5109
+#create-a-node-here really 46.120 87 { says Mr. Carpenter -- }
+#autolink_nodes 86 87 satelite attribution  5110
+#create-a-node-here really 46.133 88 {confides }
+#autolink_nodes 5109 88 multinuclear Same-Unit  5111
+#create-a-node-here really 46.197 89 {that on weekends Mr. Newquist "often gets value-added ideas }
+#autolink_nodes 88 89 nucleus attribution  5112
+#create-a-node-here really 46.275 90 {while flying his single-engine Cessna Centurion on the way to Nantucket." }
+#autolink_nodes 89 90 satelite temporal-same-time below 5113
+#autolink_nodes 84 5111 satelite evidence  5114
+#autolink_nodes 5108 5114 multinuclear List  5115
+#create-a-node-here really 48.108 91 {\n\nThe firm's new head of mergers and acquisitions under Mr. Newquist, B.J. Megargel, talks of the opportunity }
+#create-a-node-here really 48.147 92 {to "rebuild a franchise" at Kidder.}
+#nextSentence really
+#autolink_nodes 91 92 satelite elaboration-object-attribute  5116
+#create-a-node-here really 48.197 93 { "The Kidder name is one of only six or seven }
+#create-a-node-here really 48.252 94 {that every CEO recognizes as a viable alternative" }
+#autolink_nodes 93 94 satelite-embedded elaboration-object-attribute-e  5117
+#create-a-node-here really 48.287 95 {when considering a merger deal,}
+#autolink_nodes 94 95 satelite-embedded circumstance-e  5118
+#UNDID
+#autolink_nodes 94 95 satelite circumstance  5118
+#create-a-node-here really 48.300 96 { he says.}
+#autolink_nodes 5117 96 satelite attribution  5119
+#autolink_nodes 5116 5119 satelite explanation-argumentative  5120
+#create-a-node-here really 49.5 97 {\nNow, }
+#create-a-node-here really 49.63 98 {according to a Kidder World story about Mr. Megargel, }
+#create-a-node-here really 49.136 99 {all the firm has to do is "position ourselves more in the deal flow."}
+#nextSentence really
+#autolink_nodes 98 99 nucleus-embedded attribution-e  5121
+#autolink_nodes 97 5121 multinuclear Same-Unit  5122
+#autolink_nodes 5120 5122 multinuclear List  5123
+#autolink_nodes 5106 5123 multinuclear Problem-Solution  5124
+#create-a-node-here really 51.53 100 { \n\nWith investment banking as Kidder's "lead business," }
+#create-a-node-here really 51.133 101 {where do Kidder's 42-branch brokerage network and its 1,400 brokers fit in?}
+#nextSentence really
+#autolink_nodes 100 101 nucleus background  5125
+#autolink_nodes 5123 5125 satelite rhetorical-question  5126
+#UNDID
+#autolink_nodes 5123 5125 satelite rhetorical-question  5126
+#create-a-node-here really 52.118 102 {\nMr. Carpenter this month sold off Kidder's eight brokerage offices in Florida and Puerto Rico to Merrill Lynch & Co., }
+#create-a-node-here really 52.145 103 {refueling speculation }
+#autolink_nodes 102 103 satelite elaboration-additional  5127
+#create-a-node-here really 52.212 104 {that Kidder is getting out of the brokerage business entirely.}
+#autolink_nodes 103 104 nucleus attribution  5128
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 102 103 satelite attribution  5127
+#UNDID
+#autolink_nodes 102 103 satelite elaboration-additional  5127
+#create-a-node-here really 52.212 104 {that Kidder is getting out of the brokerage business entirely.}
+#autolink_nodes 103 104 nucleus attribution  5128
+#disconnect_node 5128 disconnect
+#autolink_nodes 102 5128 satelite interpretation-s  5129
+#create-a-node-here really 53.37 105 {\nMr. Carpenter denies the speculation.}
+#nextSentence really
+#autolink_nodes 5128 105 satelite attribution-n  5130
+#autolink_nodes 5126 5129 multinuclear Contrast  5131
+#create-a-node-here really 54.33 106 {\nTo answer the brokerage question,}
+#create-a-node-here really 54.96 107 { Kidder, in typical fashion, completed a task-force study.}
+#nextSentence really
+#autolink_nodes 106 107 nucleus purpose  5132
+#UNDID
+#autolink_nodes 106 107 nucleus purpose  5132
+#create-a-node-here really 55.12 108 {\nThe result: }
+#create-a-node-here really 55.215 109 {Kidder will focus on rich individual investors and small companies, much closer to the clientele of Goldman, Sachs & Co. than a serve-the-world firm like Merrill Lynch or Shearson Lehman Hutton Inc.}
+#autolink_nodes 108 109 satelite elaboration-object-attribute  5133
+#disconnect_node 109 modify
+#autolink_nodes 108 109 satelite elaboration-general-specific  5134
+#autolink_nodes 5132 5134 nucleus result  5135
+#disconnect_node 5125 disconnect
+#disconnect_node 5129 disconnect
+#autolink_nodes 101 5129 satelite circumstance below 5136
+#autolink_nodes 5125 5135 multinuclear Question-Answer  5137
+#create-a-node-here really 55.240 110 { Mr. Carpenter notes}
+#create-a-node-here really 55.374 111 { that these types of investors also are "sophisticated" enough not to complain about Kidder's aggressive use of program trading. }
+#autolink_nodes 110 111 nucleus attribution  5138
+#autolink_nodes 5134 5138 satelite interpretation-s below 5139
+#autolink_nodes 5123 5137 multinuclear List above 5140
+#create-a-node-here really 57.28 112 {\n\nAs part of the upscale push,}
+#create-a-node-here really 57.94 113 { Kidder is putting brokers through a 20-week training course,}
+#create-a-node-here really 57.178 114 { turning them into "investment counselors" with knowledge of corporate finance.}
+#nextSentence really
+#autolink_nodes 113 114 satelite purpose  5141
+#autolink_nodes 112 5141 nucleus background  5142
+#create-a-node-here really 58.38 115 {\nThey will get "new and improved tools }
+#create-a-node-here really 58.91 116 {to sell, particularly to the affluent investor,"}
+#autolink_nodes 115 116 satelite purpose  5143
+#nextSentence really
+#create-a-node-here really 58.137 117 { says brokerage chief Charles V. Sheehan.}
+#nextSentence really
+#autolink_nodes 5143 117 satelite attribution  5144
+#autolink_nodes 5142 5144 satelite evaluation-s  5145
+#autolink_nodes 5139 5145 satelite enablement above 5145
+#create-a-node-here really 60.130 118 { \n\nTheoretically, the brokers will then be able to funnel "leads" on corporate finance opportunities to Kidder's investment bankers, }
+#create-a-node-here really 60.198 119 {possibly easing the longstanding tension between the two camps.}
+#nextSentence really
+#autolink_nodes 118 119 satelite hypothetical  5146
+#create-a-node-here really 61.26 120 {\nHowever, skeptics caution }
+#create-a-node-here really 61.127 121 {that this kind of cross-pollination between brokers and investment bankers looks great on paper,}
+#autolink_nodes 120 121 nucleus attribution  5147
+#create-a-node-here really 61.159 122 { but doesn't always happen.}
+#nextSentence really
+#autolink_nodes 121 122 satelite antithesis below 5148
+#autolink_nodes 5146 5147 multinuclear Contrast  5149
+#UNDID
+#autolink_nodes 5146 5147 multinuclear Contrast  5149
+#disconnect_node 5145 modify
+#autolink_nodes 5139 5145 satelite means above 5149
+#autolink_nodes 5144 5149 satelite elaboration-additional  5150
+#create-a-node-here really 63.57 123 { \n\nKidder competitors aren't outwardly hostile to the firm, }
+#create-a-node-here really 63.129 124 {as many are to a tough competitor like Drexel Burnham Lambert Inc. }
+#create-a-node-here really 64.0 125 {that doesn't have Kidder's long history.\n}
+#autolink_nodes 124 125 satelite-embedded elaboration-object-attribute-e  5151
+#autolink_nodes 123 5151 multinuclear Comparison  5152
+#UNDID
+#autolink_nodes 123 5151 satelite comparison  5152
+#create-a-node-here really 64.30 126 {However, competitors say }
+#create-a-node-here really 64.62 127 {that Kidder's hiring binge }
+#autolink_nodes 126 127 nucleus attribution  5153
+#create-a-node-here really 64.148 128 {involving executive-level staffers, some with multiple-year contract guarantees, }
+#autolink_nodes 127 128 satelite-embedded elaboration-object-attribute-e below 5154
+#create-a-node-here really 64.168 129 {could backfire }
+#autolink_nodes 5154 129 multinuclear Same-Unit  5155
+#create-a-node-here really 64.198 130 {unless there are results.}
+#nextSentence really
+#autolink_nodes 129 130 satelite condition  5156
+#autolink_nodes 5152 5153 satelite antithesis  5157
+#disconnect_node 5153 modify
+#autolink_nodes 5152 5153 satelite hypothetical  5158
+#disconnect_node 5153 modify
+#autolink_nodes 5152 5153 satelite antithesis  5159
+#autolink_nodes 5071 5159 satelite evaluation-s above 5159
+#create-a-node-here really 66.32 131 { \n\nThe departing Mr. Cathcart says }
+#create-a-node-here really 66.77 132 {he has no worries about Kidder's future.}
+#nextSentence really
+#autolink_nodes 131 132 nucleus attribution  5160
+#create-a-node-here really 67.14 133 {\nMr. Cathcart, }
+#create-a-node-here really 67.115 134 {who will return to the Quaker Oats Co. board of directors, in addition to his personal ventures,}
+#autolink_nodes 133 134 satelite-embedded elaboration-additional-e  5161
+#create-a-node-here really 67.230 135 { is credited with bringing some basic budgeting and planning discipline to traditionally free-wheeling Kidder.}
+#nextSentence really
+#autolink_nodes 5161 135 multinuclear Same-Unit  5162
+#create-a-node-here really 68.50 136 {\nHe also improved the firm's compliance procedures }
+#create-a-node-here really 68.67 137 {for trading.}
+#nextSentence really
+#autolink_nodes 136 137 satelite elaboration-object-attribute  5163
+#UNDID
+#autolink_nodes 136 137 satelite elaboration-general-specific  5163
+#autolink_nodes 135 5163 multinuclear List  5164
+#autolink_nodes 5160 5162 satelite elaboration-additional  5165
+#create-a-node-here really 70.18 138 { \n\nMr. Cathcart says }
+#create-a-node-here really 70.59 139 {he has had "a lot of fun" at Kidder,}
+#autolink_nodes 138 139 nucleus attribution  5166
+#create-a-node-here really 70.139 140 { adding the crack about his being a "tool-and-die man" never bothered him. }
+#autolink_nodes 139 140 satelite elaboration-additional below 5167
+#create-a-node-here really 70.181 141 {"It was an absolutely marvelous line }
+#UNDID
+#create-a-node-here really 70.181 141 {"It was an absolutely marvelous line }
+#create-a-node-here really 70.193 142 {and one}
+#create-a-node-here really 70.218 143 { I used many times,"}
+#autolink_nodes 142 143 satelite-embedded elaboration-object-attribute-e  5168
+#autolink_nodes 141 5168 multinuclear List  5169
+#create-a-node-here really 70.232 144 { he says.}
+#nextSentence really
+#autolink_nodes 5169 144 satelite attribution  5170
+#autolink_nodes 140 5170 satelite elaboration-additional  5171
+#autolink_nodes 5153 5165 multinuclear Topic-Drift  5172
+#autolink_nodes 5165 5166 satelite elaboration-additional  5173
+#create-a-node-here really 72.16 145 { \n\nSmiling broadly }
+#create-a-node-here really 72.55 146 {when he talks about Mr. Carpenter,}
+#autolink_nodes 145 146 satelite temporal-same-time  5174
+#create-a-node-here really 72.79 147 { Mr. Cathcart says }
+#autolink_nodes 5174 147 nucleus manner  5175
+#create-a-node-here really 72.203 148 {the new Kidder chief is "going to be recognized shortly as one of the real leaders in the investment-banking business."}
+#nextSentence really
+#autolink_nodes 147 148 nucleus attribution  5176
+#create-a-node-here really 72.225 149 { In coming years,}
+#create-a-node-here really 72.250 150 { Mr. Cathcart says, }
+#create-a-node-here really 72.277 151 {Kidder is "gonna hum."}
+#nextSentence really
+#autolink_nodes 150 151 nucleus attribution  5177
+#UNDID
+#autolink_nodes 150 151 satelite-embedded attribution-e  5177
+#UNDID
+#autolink_nodes 150 151 nucleus-embedded attribution-e  5177
+#autolink_nodes 149 5177 multinuclear Same-Unit  5178
+#autolink_nodes 5175 5178 satelite elaboration-additional  5179
+#create-a-node-here really 74.3 152 { \n\nOr,}
+#create-a-node-here really 74.76 153 { as Mr. Carpenter, again drawing on his consulting-firm background, }
+#UNDID
+#create-a-node-here really 74.27 153 { as Mr. Carpenter, }
+#create-a-node-here really 74.81 154 {again drawing on his consulting-firm background, }
+#autolink_nodes 153 154 satelite-embedded elaboration-additional-e  5180
+#create-a-node-here really 74.95 155 {puts it: }
+#autolink_nodes 5180 155 multinuclear Same-Unit  5181
+#create-a-node-here really 74.142 156 {"We're ready to implement at this point." }
+#autolink_nodes 5181 156 nucleus-embedded attribution-e  5182
+#autolink_nodes 152 5182 multinuclear Same-Unit  5183
+#autolink_nodes 5179 5183 multinuclear Disjunction  5184
+#autolink_nodes 5166 5184 satelite elaboration-additional  5185
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5064 disconnect
+disconnect_node 5075 disconnect
+disconnect_node 5016 disconnect
+disconnect_node 5071 disconnect
+disconnect_node 5005 disconnect
+autolink_nodes 1 5005 satelite evidence  5083
+disconnect_node 5010 modify
+autolink_nodes 10 5010 satelite temporal-same-time  5084
+autolink_nodes 5012 5016 satelite comment  5085
+autolink_nodes 5005 5085 satelite elaboration-additional  5086
+#autolink_nodes 5086 5075 satelite interpretation-s  5087
+#UNDID
+disconnect_node 5069 disconnect
+autolink_nodes 5085 5067 satelite interpretation-s  5087
+autolink_nodes 5083 5069 satelite evaluation-s  5088
+disconnect_node 5042 disconnect
+disconnect_node 38 disconnect
+disconnect_node 37 disconnect
+autolink_nodes 5038 37 multinuclear Same-Unit  5089
+autolink_nodes 37 38 satelite explanation-argumentative  5090
+autolink_nodes 5090 5043 multinuclear Contrast  5091
+disconnect_node 5043 disconnect
+autolink_nodes 5090 5043 nucleus antithesis  5092
+disconnect_node 43 disconnect
+#disconnect_node 5049 disconnect
+#UNDID
+disconnect_node 44 disconnect
+autolink_nodes 5044 43 multinuclear Same-Unit  5093
+autolink_nodes 5093 44 nucleus attribution  5094
+disconnect_node 5082 disconnect
+#autolink_nodes 5057 5082 satelite evaluation-s  5095
+#UNDID
+autolink_nodes 5088 5057 satelite enablement  5095
+autolink_nodes 5057 5082 satelite interpretation-s  5096
+autolink_nodes 5081 5078 multinuclear Contrast  5097
+create-a-node-here really 36.5 61 {\nYet, }
+create-a-node-here really 36.29 62 {says Mr. Carpenter, }
+create-a-node-here really 36.117 63 {"We've really started to exploit the synergy between GE Capital and Kidder Peabody."}
+nextSentence really
+disconnect_node 5078 disconnect
+autolink_nodes 61 62 satelite-embedded attribution-e  5098
+autolink_nodes 5098 63 multinuclear Same-Unit  5099
+autolink_nodes 5078 5099 nucleus antithesis  5100
+autolink_nodes 5096 5100 satelite elaboration-additional  5101
+create-a-node-here really 36.186 64 { The units have worked on 37 investment banking deals this year, }
+create-a-node-here really 36.199 65 {he says, }
+autolink_nodes 64 65 satelite attribution  5102
+create-a-node-here really 36.242 66 {though not all of them have panned out.}
+nextSentence really
+autolink_nodes 5102 66 satelite concession  5103
+create-a-node-here really 38.40 67 { \n\n"We've had a good relationship with GE, }
+#create-a-node-here really 38.87 68 {which is the first time you could say that }
+#UNDID
+create-a-node-here really 38.68 68 {which is the first time }
+create-a-node-here really 38.91 69 {you could say that }
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5104
+autolink_nodes 67 5104 satelite elaboration-additional  5105
+create-a-node-here really 39.0 70 {-- uh, let me withdraw that.\n}
+autolink_nodes 5105 70 satelite attribution-n  5106
+create-a-node-here really 39.50 71 {It's been a steadily improving relationship," }
+create-a-node-here really 39.73 72 {says Mr. Carpenter.}
+nextSentence really
+autolink_nodes 71 72 satelite attribution  5107
+autolink_nodes 5106 5107 satelite elaboration-additional  5108
+#autolink_nodes 5099 5103 satelite evidence above 5108
+#UNDID
+autolink_nodes 5100 5103 satelite evidence  5109
+autolink_nodes 5109 5108 satelite interpretation-s  5110
+create-a-node-here really 41.7 73 { \n\nStill, }
+create-a-node-here really 41.37 74 {without many actual deals }
+create-a-node-here really 41.54 75 {to show off, }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5111
+create-a-node-here really 41.83 76 {Kidder is left to stress }
+autolink_nodes 5111 76 nucleus-embedded circumstance-e  5112
+autolink_nodes 73 5112 multinuclear Same-Unit  5113
+create-a-node-here really 41.126 77 {that it finally has "a team" in place, }
+create-a-node-here really 41.162 78 {and that everyone works harder. }
+autolink_nodes 77 78 multinuclear List  5114
+autolink_nodes 5112 5114 nucleus attribution  5115
+autolink_nodes 5110 5113 nucleus concession  5116
+create-a-node-here really 43.71 79 {\n\nA month ago, the firm started serving dinner at about 7:30 each night; }
+create-a-node-here really 43.184 80 {about 50 to 60 of the 350 people in the investment banking operation have consistently been around that late.}
+nextSentence really
+autolink_nodes 79 80 satelite explanation-argumentative  5117
+create-a-node-here really 43.237 81 { "We are working significantly longer and harder }
+create-a-node-here really 43.278 82 {than has been the case in the past," }
+create-a-node-here really 43.353 83 {says Scott C. Newquist, Kidder's head of investment banking since June.}
+nextSentence really
+autolink_nodes 81 82 satelite comparison  5118
+autolink_nodes 5118 83 satelite attribution  5119
+autolink_nodes 5117 5119 satelite evaluation-s  5120
+create-a-node-here really 45.55 84 { \n\nEverywhere, Kidder stresses the "always working" theme.}
+nextSentence really
+autolink_nodes 5120 84 multinuclear List  5121
+#autolink_nodes 5113 5121 satelite evidence above 5121
+#UNDID
+autolink_nodes 5113 5121 satelite evidence below 5122
+create-a-node-here really 46.38 85 {\nA new in-house magazine, Kidder World }
+create-a-node-here really 46.94 86 {-- which will focus on the firm's synergy strategy, }
+autolink_nodes 85 86 satelite-embedded elaboration-additional-e  5123
+#create-a-node-here really 46.117 87 {says Mr. Carpenter }
+#UNDID
+create-a-node-here really 46.120 87 {says Mr. Carpenter -- }
+autolink_nodes 86 87 satelite attribution  5124
+create-a-node-here really 46.133 88 {confides }
+create-a-node-here really 46.197 89 {that on weekends Mr. Newquist "often gets value-added ideas }
+#autolink_nodes 88 89 nucleus attribution  5125
+#UNDID
+autolink_nodes 5123 88 multinuclear Same-Unit  5125
+autolink_nodes 5125 89 nucleus attribution  5126
+create-a-node-here really 46.275 90 {while flying his single-engine Cessna Centurion on the way to Nantucket." }
+autolink_nodes 89 90 satelite temporal-same-time below 5127
+autolink_nodes 84 5126 satelite evidence  5128
+create-a-node-here really 48.108 91 {\n\nThe firm's new head of mergers and acquisitions under Mr. Newquist, B.J. Megargel, talks of the opportunity }
+create-a-node-here really 48.147 92 {to "rebuild a franchise" at Kidder.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5129
+create-a-node-here really 48.197 93 { "The Kidder name is one of only six or seven }
+create-a-node-here really 48.252 94 {that every CEO recognizes as a viable alternative" }
+autolink_nodes 93 94 satelite-embedded elaboration-object-attribute-e  5130
+create-a-node-here really 48.288 95 {when considering a merger deal, }
+autolink_nodes 5130 95 satelite circumstance  5131
+create-a-node-here really 48.300 96 {he says.}
+nextSentence really
+autolink_nodes 5131 96 satelite attribution  5132
+autolink_nodes 5129 5132 satelite explanation-argumentative  5133
+create-a-node-here really 49.5 97 {\nNow, }
+create-a-node-here really 49.63 98 {according to a Kidder World story about Mr. Megargel, }
+create-a-node-here really 49.136 99 {all the firm has to do is "position ourselves more in the deal flow."}
+nextSentence really
+autolink_nodes 98 99 nucleus-embedded attribution-e  5134
+autolink_nodes 97 5134 multinuclear Same-Unit  5135
+autolink_nodes 5133 5135 satelite interpretation-s  5136
+create-a-node-here really 51.128 100 { \n\nWith investment banking as Kidder's "lead business," where do Kidder's 42-branch brokerage network and its 1,400 brokers fit in?}
+nextSentence really
+disconnect_node 5121 disconnect
+disconnect_node 5116 disconnect
+#autolink_nodes 5114 5121 satelite evidence above 5136
+#UNDID
+autolink_nodes 5115 5121 satelite evidence  5137
+#disconnect_node 5110 disconnect
+#autolink_nodes 5113 5113 multinuclear List above 5140
+#disconnect_node 100 disconnect
+#autolink_nodes 5133 100 satelite rhetorical-question above 5140
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5110 disconnect
+autolink_nodes 5136 100 satelite rhetorical-question  5138
+autolink_nodes 5110 5113 nucleus concession  5139
+disconnect_node 100 disconnect
+disconnect_node 5096 disconnect
+autolink_nodes 5096 5139 multinuclear List  5140
+autolink_nodes 5140 5136 multinuclear List below 5140
+create-a-node-here really 52.118 101 {\nMr. Carpenter this month sold off Kidder's eight brokerage offices in Florida and Puerto Rico to Merrill Lynch & Co., }
+create-a-node-here really 52.145 102 {refueling speculation }
+create-a-node-here really 52.212 103 {that Kidder is getting out of the brokerage business entirely.}
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5141
+autolink_nodes 101 5141 satelite consequence-s  5142
+create-a-node-here really 53.37 104 {\nMr. Carpenter denies the speculation.}
+nextSentence really
+autolink_nodes 5141 104 satelite attribution-n  5143
+create-a-node-here really 54.34 105 {\nTo answer the brokerage question, }
+create-a-node-here really 54.96 106 {Kidder, in typical fashion, completed a task-force study.}
+nextSentence really
+autolink_nodes 105 106 nucleus purpose  5144
+autolink_nodes 100 5142 satelite elaboration-additional  5145
+create-a-node-here really 55.12 107 {\nThe result: }
+create-a-node-here really 55.216 108 {Kidder will focus on rich individual investors and small companies, much closer to the clientele of Goldman, Sachs & Co. than a serve-the-world firm like Merrill Lynch or Shearson Lehman Hutton Inc. }
+autolink_nodes 107 108 satelite elaboration-general-specific  5146
+autolink_nodes 5144 5146 nucleus result  5147
+create-a-node-here really 55.241 109 {Mr. Carpenter notes }
+create-a-node-here really 55.308 110 {that these types of investors also are "sophisticated" enough }
+create-a-node-here really 55.378 111 {not to complain about Kidder's aggressive use of program trading.}
+nextSentence really
+autolink_nodes 110 111 satelite consequence-s  5148
+autolink_nodes 109 5148 nucleus attribution  5149
+#autolink_nodes 5146 5149 satelite interpretation-s above 5149
+#UNDID
+#autolink_nodes 5146 5149 satelite interpretation-s above 5149
+#UNDID
+autolink_nodes 5146 5149 satelite interpretation-s below 5150
+autolink_nodes 5145 5147 multinuclear Question-Answer  5151
+create-a-node-here really 57.90 112 { \n\nAs part of the upscale push, Kidder is putting brokers through a 20-week training course, }
+create-a-node-here really 58.0 113 {turning them into "investment counselors" with knowledge of corporate finance.\n}
+autolink_nodes 112 113 satelite purpose  5152
+create-a-node-here really 58.43 114 {They will get "new and improved tools }
+create-a-node-here really 58.97 115 {to sell, particularly to the affluent investor," }
+autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5153
+nextSentence really
+create-a-node-here really 58.142 116 {says brokerage chief Charles V. Sheehan.}
+nextSentence really
+autolink_nodes 5153 116 satelite attribution  5154
+autolink_nodes 5152 5154 satelite consequence-s  5155
+#autolink_nodes 5150 5155 satelite enablement above 5155
+#UNDID
+autolink_nodes 5147 5155 satelite enablement  5156
+create-a-node-here really 60.130 117 { \n\nTheoretically, the brokers will then be able to funnel "leads" on corporate finance opportunities to Kidder's investment bankers, }
+create-a-node-here really 61.0 118 {possibly easing the longstanding tension between the two camps.\n}
+autolink_nodes 117 118 satelite hypothetical  5157
+create-a-node-here really 61.31 119 {However, skeptics caution }
+create-a-node-here really 61.133 120 {that this kind of cross-pollination between brokers and investment bankers looks great on paper, }
+create-a-node-here really 61.164 121 {but doesn't always happen.}
+nextSentence really
+#autolink_nodes 120 121 multinuclear Contrast  5158
+#UNDID
+autolink_nodes 120 121 nucleus antithesis  5158
+autolink_nodes 119 5158 nucleus attribution  5159
+autolink_nodes 5157 5159 satelite interpretation-s  5160
+#autolink_nodes 5156 5160 satelite elaboration-additional  5161
+#UNDID
+autolink_nodes 5154 5160 satelite elaboration-additional  5161
+autolink_nodes 5140 5151 multinuclear List below 5161
+autolink_nodes 5088 5140 multinuclear Problem-Solution  5162
+create-a-node-here really 63.57 122 { \n\nKidder competitors aren't outwardly hostile to the firm, }
+create-a-node-here really 63.129 123 {as many are to a tough competitor like Drexel Burnham Lambert Inc. }
+create-a-node-here really 64.0 124 {that doesn't have Kidder's long history.\n}
+autolink_nodes 123 124 satelite-embedded elaboration-additional-e  5163
+autolink_nodes 122 5163 satelite comparison  5164
+create-a-node-here really 64.30 125 {However, competitors say }
+#create-a-node-here really 64.56 126 {that Kidder's hiring }
+#autolink_nodes 125 126 nucleus attribution  5165
+#create-a-node-here really 64.148 127 {binge involving executive-level staffers, some with multiple-year contract guarantees, }
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 64.62 126 {that Kidder's hiring binge }
+autolink_nodes 125 126 nucleus attribution  5165
+create-a-node-here really 64.147 127 {involving executive-level staffers, some with multiple-year contract guarantees,}
+autolink_nodes 126 127 satelite-embedded elaboration-object-attribute-e below 5166
+create-a-node-here really 64.168 128 { could backfire }
+autolink_nodes 5166 128 multinuclear Same-Unit  5167
+create-a-node-here really 64.198 129 {unless there are results.}
+nextSentence really
+#autolink_nodes 5167 129 satelite condition above 5167
+#UNDID
+#autolink_nodes 5167 129 satelite condition above 5167
+#UNDID
+autolink_nodes 5167 129 satelite condition below 5168
+autolink_nodes 5164 5165 nucleus antithesis  5169
+autolink_nodes 5140 5169 satelite interpretation-s  5170
+create-a-node-here really 66.32 130 { \n\nThe departing Mr. Cathcart says }
+create-a-node-here really 66.77 131 {he has no worries about Kidder's future.}
+autolink_nodes 130 131 nucleus attribution  5171
+create-a-node-here really 67.14 132 {\nMr. Cathcart, }
+create-a-node-here really 67.78 133 {who will return to the Quaker Oats Co. board of directors, }
+autolink_nodes 132 133 satelite-embedded elaboration-additional-e  5172
+create-a-node-here really 67.230 134 {in addition to his personal ventures, is credited with bringing some basic budgeting and planning discipline to traditionally free-wheeling Kidder.}
+nextSentence really
+autolink_nodes 5172 134 multinuclear Same-Unit  5173
+autolink_nodes 5171 5173 satelite elaboration-additional  5174
+create-a-node-here really 68.62 135 {\nHe also improved the firm's compliance procedures for trading.}
+nextSentence really
+autolink_nodes 5173 135 multinuclear List above 5175
+create-a-node-here really 70.18 136 { \n\nMr. Cathcart says }
+create-a-node-here really 70.60 137 {he has had "a lot of fun" at Kidder, }
+autolink_nodes 136 137 nucleus attribution  5176
+create-a-node-here really 70.72 138 {adding }
+create-a-node-here really 70.87 139 {the crack }
+create-a-node-here really 70.129 140 {about his being a "tool-and-die man" }
+autolink_nodes 139 140 satelite-embedded elaboration-object-attribute-e  5177
+create-a-node-here really 70.153 141 {never bothered him.}
+nextSentence really
+autolink_nodes 5177 141 multinuclear Same-Unit  5178
+autolink_nodes 138 5178 nucleus attribution  5179
+autolink_nodes 5176 5179 satelite elaboration-additional  5180
+create-a-node-here really 70.204 142 { "It was an absolutely marvelous line and one }
+create-a-node-here really 70.229 143 {I used many times," }
+autolink_nodes 142 143 satelite-embedded elaboration-object-attribute-e  5181
+create-a-node-here really 70.242 144 {he says.}
+nextSentence really
+autolink_nodes 5181 144 satelite attribution  5182
+#autolink_nodes 5179 5182 satelite elaboration-additional  5183
+#UNDID
+autolink_nodes 5179 5182 satelite evaluation-s  5183
+create-a-node-here really 72.16 145 { \n\nSmiling broadly }
+create-a-node-here really 72.56 146 {when he talks about Mr. Carpenter, }
+autolink_nodes 145 146 satelite circumstance  5184
+create-a-node-here really 72.79 147 {Mr. Cathcart says }
+autolink_nodes 5184 147 nucleus manner  5185
+create-a-node-here really 72.204 148 {the new Kidder chief is "going to be recognized shortly as one of the real leaders in the investment-banking business." }
+autolink_nodes 147 148 nucleus attribution  5186
+create-a-node-here really 72.226 149 {In coming years, }
+create-a-node-here really 72.250 150 {Mr. Cathcart says, }
+autolink_nodes 149 150 satelite-embedded attribution-e  5187
+create-a-node-here really 72.277 151 {Kidder is "gonna hum."}
+nextSentence really
+autolink_nodes 5187 151 multinuclear Same-Unit  5188
+autolink_nodes 5185 5188 satelite elaboration-additional  5189
+create-a-node-here really 74.4 152 { \n\nOr, }
+create-a-node-here really 74.27 153 {as Mr. Carpenter, }
+create-a-node-here really 74.81 154 {again drawing on his consulting-firm background, }
+autolink_nodes 153 154 satelite-embedded elaboration-additional-e  5190
+create-a-node-here really 74.95 155 {puts it: }
+autolink_nodes 5190 155 multinuclear Same-Unit  5191
+create-a-node-here really 74.141 156 {"We're ready to implement at this point."}
+nextSentence really
+autolink_nodes 5191 156 nucleus attribution  5192
+autolink_nodes 152 5192 multinuclear Same-Unit  5193
+autolink_nodes 5189 5193 multinuclear List  5194
+#autolink_nodes 5162 5194 multinuclear Topic-Drift above 5195
+#UNDID
+#autolink_nodes 5174 5194 satelite elaboration-additional  5195
+#UNDID
+autolink_nodes 5174 5180 satelite elaboration-additional  5195
+autolink_nodes 5195 5194 satelite elaboration-additional  5196
+autolink_nodes 5162 5196 multinuclear Topic-Drift above 5197
+disconnect_node 118 modify
+autolink_nodes 117 118 nucleus hypothetical  5198
+#disconnect_node 5086 disconnect
+#disconnect_node 5087 disconnect
+#UNDID
+#UNDID
+disconnect_node 5086 modify
+autolink_nodes 1 5086 satelite circumstance below 5199
+disconnect_node 5087 disconnect
+autolink_nodes 5004 5087 satelite elaboration-general-specific  5200
+disconnect_node 98 disconnect
+autolink_nodes 97 98 satelite-embedded attribution-e  5201
+#disconnect_node 5191 disconnect
+#autolink_nodes 152 5191 satelite attribution  5202
+#UNDID
+#UNDID
+disconnect_node 154 modify
+autolink_nodes 153 154 satelite-embedded circumstance-e  5202
+disconnect_node 5193 modify
+autolink_nodes 5188 5193 satelite restatement  5203
