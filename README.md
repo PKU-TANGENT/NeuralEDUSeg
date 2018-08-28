@@ -58,7 +58,7 @@ Please cite the following paper if you use this toolkit in your work:
 ```
 @inproceedings{wang2018edu,
   title={Toward Fast and Accurate Neural Discourse Segmentation},
-  author={Yizhong Wang and Sujian Li},
+  author={Yizhong Wang, Sujian Li and Jingfeng Yang},
   booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)},
   year={2018}
 }
