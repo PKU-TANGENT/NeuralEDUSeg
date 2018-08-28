@@ -31,7 +31,7 @@ python run.py --evaluate --test_files ../data/rst/preprocessed/test/*.preprocess
 
 The performance of current model should be as follows:
 ```
-'precision': 0.9176470588235294, 'recall': 0.975, 'f1': 0.9454545454545454}
+{'precision': 0.9176470588235294, 'recall': 0.975, 'f1': 0.9454545454545454}
 ```
 
 Note that this is slightly better than the results we reported in the paper, since we re-trained the model and there is some randomness here.
