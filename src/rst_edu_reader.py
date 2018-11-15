@@ -19,7 +19,7 @@ class RSTData(object):
 
     def read_samples(self, files):
         samples = []
-        for file in files[:5]:
+        for file in files:
             with open(file, 'r') as fin:
                 sent_edus = {}
                 for line in fin:
