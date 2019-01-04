@@ -81,9 +81,6 @@ class RSTData(object):
         batch_data, padded_len = self.dynamic_padding(batch_data)
         return batch_data
 
-    def convert_text_to_sample(self):
-        pass
-
     def dynamic_padding(self, batch_data):
         max_len = min(200, max(batch_data['length']))
         word_pad_id = self.word_vocab.get_id(self.word_vocab.pad_token)

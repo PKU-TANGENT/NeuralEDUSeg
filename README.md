@@ -1,6 +1,6 @@
 # Neural-EDU-Segmentation
 A toolkit for segmenting Elementary Discourse Units (clauses).
-We implement it as is described in our EMNLP paper: [Toward Fast and Accurate Neural Discourse Segmentation](https://arxiv.org/abs/1808.09147)
+We implement it as is described in our EMNLP paper: [Toward Fast and Accurate Neural Discourse Segmentation]()
 
 
 ### Requirements
@@ -31,7 +31,7 @@ python run.py --evaluate --test_files ../data/rst/preprocessed/test/*.preprocess
 
 The performance of current model should be as follows:
 ```
-{'precision': 0.9176470588235294, 'recall': 0.975, 'f1': 0.9454545454545454}
+'precision': 0.9176470588235294, 'recall': 0.975, 'f1': 0.9454545454545454}
 ```
 
 Note that this is slightly better than the results we reported in the paper, since we re-trained the model and there is some randomness here.
@@ -48,7 +48,13 @@ Hyper-parameters and other training settings can be modified in `config.py`.
 
 ### Segmenting raw text into EDUs
 
-[Coming soon]
+You can segment files with raw text into EDUs:
+
+```
+python run.py --segment --input_files ../data/rst/TRAINING/wsj_110*.out --result_dir ../data/results/
+```
+
+The segmented result for each file will be saved to the `--result_dir` folder with the same name. Each EDU is written as a line.
 
 
 ### Citation
@@ -58,7 +64,7 @@ Please cite the following paper if you use this toolkit in your work:
 ```
 @inproceedings{wang2018edu,
   title={Toward Fast and Accurate Neural Discourse Segmentation},
-  author={Yizhong Wang, Sujian Li and Jingfeng Yang},
+  author={Yizhong Wang and Sujian Li},
   booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)},
   year={2018}
 }
