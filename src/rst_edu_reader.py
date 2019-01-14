@@ -82,7 +82,7 @@ class RSTData(object):
         return batch_data
 
     def dynamic_padding(self, batch_data):
-        max_len = min(200, max(batch_data['length']))
+        max_len = max(batch_data['length'])
         word_pad_id = self.word_vocab.get_id(self.word_vocab.pad_token)
         batch_data['word_ids'] = [(ids + [word_pad_id] * (max_len - len(ids)))[: max_len]
                                   for ids in batch_data['word_ids']]
