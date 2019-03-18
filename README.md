@@ -1,6 +1,6 @@
 # Neural-EDU-Segmentation
 A toolkit for segmenting Elementary Discourse Units (clauses).
-We implement it as is described in our EMNLP paper: [Toward Fast and Accurate Neural Discourse Segmentation]()
+We implement it as is described in our EMNLP paper: [Toward Fast and Accurate Neural Discourse Segmentation](http://www.aclweb.org/anthology/D18-1116)
 
 
 ### Requirements
@@ -64,8 +64,9 @@ Please cite the following paper if you use this toolkit in your work:
 ```
 @inproceedings{wang2018edu,
   title={Toward Fast and Accurate Neural Discourse Segmentation},
-  author={Yizhong Wang and Sujian Li},
-  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)},
+  author={Wang, Yizhong and Li, Sujian and Yang, Jingfeng},
+  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
+  pages={962--967},
   year={2018}
 }
 ```
